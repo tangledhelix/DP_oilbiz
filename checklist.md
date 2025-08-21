@@ -21,7 +21,8 @@ cd ~/dp/util
 * [x] `File → Project → Configure Page Labels...`. Check for roman numerals and unnumbered pages. Go to end of book to check page numbers line up.
 
 ### Sequential Inspection of Text
-* [ ] Turn on `Auto Img`
+* [x] Turn on `Auto Img`
+* [x] Check for chapter/section spacing (2,4). Regex: `(^$\n^$\n^$\n^$\n|^$\n^$\n)` and use "Highlight All".
 
 Check for:
 
@@ -136,7 +137,6 @@ Instructions for `/* */` and `/# #/` blocks:
 * [ ] `Tools → Jeebies`. Examine its report of possible `he/be` errors.
 
 ### Misc checks
-* [ ] Check for chapter/section spacing (2,4). Regex: `(^$\n^$\n^$\n^$\n|^$\n^$\n)`
 * [ ] Check spaces around hyphens. Regex: `(\s+-|-\s+)`
 * [ ] Check spaces before punctuation. Regex: `\s+[.!?;:,]`
 * [ ] Check spaces around quotes. Regex: `\s+['"]\s+`
