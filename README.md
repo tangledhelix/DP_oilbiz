@@ -63,11 +63,39 @@ Images from [TIA](https://archive.org/details/evolutionofoilin00rossrich).
 
 ### Proofer's notes ###
 
+On p035, p037, p057 we see "Edwin Laurencine Drake." One proofer note suggests it's
+a typo for "Laurentine." [Wikipedia][1] uses "Laurentine" but that name is nowhere
+in the book.
+
+Found as Laurencine in another source by another DP'er. Leave as printed, but add
+a TN about the difference from modern sources, just as a note?
+
+- [x] Posted in forums about this - await responses before handling
+
+On p038, another possible name typo: Henry Huttleson Rogers. Per [Wikipedia][2],
+it should be Henry "Huttleston"?
+
+Have found a number of other sources using Huttleson; leave it as-is.
+
+- [x] Didn't post in forum; just check back on it.
+
+[1]: https://en.wikipedia.org/wiki/Edwin_Drake
+[2]: https://en.wikipedia.org/wiki/Henry_Huttleston_Rogers
+
 ### Joined hyphenated words ###
 
 ### Spellcheck ###
 
 ### Transcriber's notes ###
+
+p. 50: changed “Egpyt” to “Egypt” (Egypt has also a future)
+
+p. 74: changed “rythmical” to “rhythmical” (the rhythmical “chug-chug”)
+
+p. 83: changed “Samual” to “Samuel” (Samuel Van Syckel of Titusville)
+
+On pp. 35, 37, and 57 appears “Edwin Laurencine Drake.” Modern sources
+differ in spelling (Laurentine). This name was left as originally printed.
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 

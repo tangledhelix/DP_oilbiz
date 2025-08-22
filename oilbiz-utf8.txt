@@ -142,7 +142,7 @@ which it passes shall reap a just benefit.
 The far-sighted Americans of the transition period
 in this country's history, who created the modern
 petroleum industry, and built up the machinery for
-its[**P1: remove '?,P2: not a single quote, a printing error] continuous expansion, began with the definite aim
+its continuous expansion, began with the definite aim
 of involving order from chaos. They were from the
 outset reformers of business methods and enemies
 of waste. The latter had become colossal during the
@@ -248,7 +248,7 @@ CONTENTS
 /*
                        PAGE
 
-<sc>Preface</sc>      v[**possibly <sc>V</sc> ?]
+<sc>Preface</sc>      v
 By Dr. Van H. Manning.
 
 CHAPTER
@@ -746,7 +746,7 @@ period.
 It is, however, evident that oil has often moved
 from the formations in which it was made to other
 formations, generally loose or porous, which have
-served as natural reservoirs for storing[** storing P2] the oil in the
+served as natural reservoirs for storing the oil in the
 earth. It is probable that in most instances the
 migration took place by filtration or flowing through
 fissures or openings from one formation to another,
@@ -1284,7 +1284,7 @@ FOUNDER OF THE PETROLEUM INDUSTRY
 On October 4, 1901, a magnificent monument
 was unveiled at Woodlawn Cemetery,
 Titusville, Pa., to the memory of
-Edwin Laurencine[**P2: typo for "Laurentine"?] Drake at the expense of the late
+Edwin Laurencine Drake at the expense of the late
 Henry H. Rogers, of the Standard Oil Company,
 himself a pioneer of the Pennsylvania oil fields in the
 boom days of the sixties. The inscription on the
@@ -1319,7 +1319,7 @@ bequeathing to posterity the fruits of his labour and his
 industry. His last days oppressed by ills--To want, no
 stranger--He died in obscurity.
 
-This monument is erected by Henry Huttleson[**P2: typo for "Huttleston"?] Rogers,
+This monument is erected by Henry Huttleson Rogers,
 in grateful recognition and remembrance.
 #/
 
@@ -1448,7 +1448,7 @@ such riches began to decline and Pithole was quickly
 deserted. A few years later a visitor found only
 -----File: p042a.png-------------------------------------------------------
 
-[Illustration: Early activity; the famous Red Hot Oil Field near Shamburg[**P2: typo for "Hamburg"?], Pa., in 1870]
+[Illustration: Early activity; the famous Red Hot Oil Field near Shamburg, Pa., in 1870]
 -----File: p042b.png-------------------------------------------------------
 
 [Illustration: Where Pithole stood--the main street of a Pennsylvania oil town, which had a population of 20,000 in
@@ -1660,7 +1660,7 @@ annual crude production from this source is upwards
 of one million tons. The Persian oil fields
 will be a factor to be reckoned with in future, and
 an oil port fed by a pipe line on the American model
-already exists at Abadan on the Persian Gulf. Egpyt[**typo for Egypt]
+already exists at Abadan on the Persian Gulf. Egypt
 has also a future as a petroleum producing country,
 for within the past ten years not only "gushers"
 but wells which give evidence of steady flowing
@@ -1873,7 +1873,7 @@ oil journal, provides much interesting data. Oil
 geology, he points out, is not an exact science but it
 enables one to focus exact information upon the
 creation of a theory regarding the probable structure
-of an untested area. In Oklahoma, for instance[**faded hyphen assumed],
+of an untested area. In Oklahoma, for instance,
 geological investigations made within the
 past five years resulted in the discovery of many
 of the new pools. All drilling is in some sense
@@ -2298,7 +2298,7 @@ possible. If the field is shallow and the wells are all
 or gasoline is sometimes installed which may provide
 the energy for pumping as many as a dozen wells.
 The shackle-rods spread out over the field like a
-spider's web, and the rythmical[**P2: typo for "rhythmical"?] "chug-chug" is
+spider's web, and the rhythmical "chug-chug" is
 music to the ears of the oil man and also to the
 farmer who has leased the oil rights to him--for the
 song of the pumping plant symbolizes fat royalties.
@@ -2534,7 +2534,7 @@ two-inch diameter, with a rated daily capacity of
 J. D. Henry, one of the most eminent historians
 of petroleum, asserts that the first commercially
 successful pipe line was constructed in the summer
-of 1865 by Samual[**P2: typo for "Samuel"?] Van Syckel of Titusville, from the
+of 1865 by Samuel Van Syckel of Titusville, from the
 mushroom city of Pithole, Pa., to the nearest rail-*way
 station, Miller Farm, a distance of four miles.
 Van Syckel had the backing of New York capital,
@@ -2831,7 +2831,7 @@ house" which is located in some central position.
 In this manner it becomes possible for a single
 responsible supervisor to observe and control the
 operation of a large number of stills. The supervisor
-is called the "stillsman"[**P2: typo for "stillman"?] and upon him rests
+is called the "stillsman" and upon him rests
 the responsibility for directing the initial process of
 separation or sifting by which the crude petroleum
 received at the refinery is roughly separated into
@@ -3460,7 +3460,7 @@ vast quantities of oil across the oceans of the world
 has, for instance, produced a form of maritime architecture
 almost as unique in its kind as is the pipe-line
 in land transportation. Then again, oil has within
-recent years tended to revolutionize the fuelling[**fueling] [**P2: fuelling is correct in British English.] of
+recent years tended to revolutionize the fuelling of
 -----File: p117.png--------------------------------------------------------
 both the merchant marine and the war fleets of this
 and other countries. Petroleum's relation to naval
@@ -3671,9 +3671,9 @@ and a half times the heating power of steam coal,
 so that weight for weight carried, the radius of action
 is extended fifty per cent. A vessel equipped with a
 modern internal combustion engine consuming fuel
-oil may make a voyage of fifty seven[**fifty-seven] days without replenishment,
+oil may make a voyage of fifty-seven days without replenishment,
 whereas the same vessel operated by
-the old type of coal-fuelled[**fueled] steam engine would be
+the old type of coal-fuelled steam engine would be
 obliged to re-fill its bunkers at the end of fifteen days.
 In 1912 an Oil Congress was held in London,
 -----File: p125.png--------------------------------------------------------
@@ -4879,7 +4879,7 @@ backing British enterprise in measures directed to
 that end. The point to be borne in mind is that
 American oil men, the real creators of the industry,
 have accomplished what they have in the foreign
-field virtually <i>without</i> governmental support or co-*operation[**coöperation].
+field virtually <i>without</i> governmental support or co-operation.
 It is hardly overstating the facts to add
 that they have been harassed and interfered with
 in their efforts to maintain the future security of their
