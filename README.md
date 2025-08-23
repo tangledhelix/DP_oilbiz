@@ -26,12 +26,12 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] p. 178: block quotation
 * [ ] p. 178: "the end"
 * [ ] p. 178: printer imprint
-* [ ] p. i: use `/F` rewrap
-* [ ] p. iii: use `/F` rewrap
-* [ ] p. iv: use `/F` rewrap
-* [ ] p. xiii: reformat as table
-* [ ] p. xv: reformat as table
-* [ ] p. 1: use `/F` rewrap
+* [x] p. i: use `/F` rewrap
+* [x] p. iii: use `/F` rewrap
+* [x] p. iv: use `/F` rewrap
+* [x] p. xiii: reformat as table
+* [x] p. xv: reformat as table
+* [x] p. 1: use `/F` rewrap
 
 ### Project manager notes ###
 
