@@ -2,10 +2,10 @@
 
 
 
-/*
+/F
 THE EVOLUTION OF THE
 OIL INDUSTRY
-*/
+F/
 
 [Illustration: The first oil well drilled near Titusville, Pa., on August 27,
 1859, by Col. Edwin L. Drake, the pioneer man of the world]
@@ -13,7 +13,7 @@ OIL INDUSTRY
 
 
 
-/*
+/F
 THE EVOLUTION
 <i>of the</i>
 OIL INDUSTRY
@@ -33,18 +33,18 @@ GARDEN CITY      NEW YORK
 DOUBLEDAY, PAGE & COMPANY
 
 1920
-*/
+F/
 
 
 
 
-/*
+/F
 COPYRIGHT, 1920, BY
 DOUBLEDAY, PAGE & COMPANY
 
 ALL RIGHTS RESERVED, INCLUDING THAT OF TRANSLATION
 INTO FOREIGN LANGUAGES, INCLUDING THE SCANDINAVIAN
-*/
+F/
 
 
 
@@ -230,7 +230,7 @@ many of the ills that beset civilization to-day.
 CONTENTS
 
 
-/*
+/X
                        PAGE
 
 <sc>Preface</sc>      v
@@ -267,7 +267,7 @@ XII. <sc>Petroleum in the Great War</sc>      129
 XIII. <sc>America's Investment in Petroleum</sc>      148
 
 XIV. <sc>Petroleum in the Future</sc>      160
-*/
+X/
 
 
 
@@ -275,7 +275,7 @@ XIV. <sc>Petroleum in the Future</sc>      160
 LIST OF ILLUSTRATIONS
 
 
-/*
+/X
 The first oil well, drilled near Titusville, Pa.,
 on August 27, 1859, by Col. Edwin L.
 Drake                               <i>Frontispiece</i>
@@ -322,15 +322,15 @@ Steam stills at a modern refinery      162
 
 Storage tank at Cushing, Oklahoma, struck
 by lightning      163
-*/
+X/
 
 
 
 
-/*
+/F
 THE EVOLUTION OF THE
 OIL INDUSTRY
-*/
+F/
 
 
 
