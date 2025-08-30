@@ -1066,21 +1066,21 @@ any other part of the continent. Gamblers and adventurers flocked there
 in company with many legitimate oil men. In the speculation that ensued
 fortunes were made and lost daily. Then, after a year or two, the wells
 which had shown such riches began to decline and Pithole was quickly
-deserted. A few years later a visitor found only
+deserted. A few years later a visitor found only two inhabited
+houses in a city that had for a time been the home of thousands of
+restless mortals. Later still some of the abandoned wells were made
+productive by new processes, but the glory of the mushroom city had
+vanished forever. In other parts of this continent there have been oil
+crazes, but nothing approaching the story of Pithole. And it is famous
+for another reason; it was the scene of the establishment of one of the
+earliest pipe-lines, a system which has been an invaluable auxiliary to
+the growth of the American industry.
 
 [Illustration: Early activity; the famous Red Hot Oil Field near
 Shamburg, Pa., in 1870]
 
 [Illustration: Where Pithole stood--the main street of a Pennsylvania
 oil town, which had a population of 20,000 in 1870, as it looks to-day]
-two inhabited houses in a city that had for a time been the home of
-thousands of restless mortals. Later still some of the abandoned wells
-were made productive by new processes, but the glory of the mushroom
-city had vanished forever. In other parts of this continent there have
-been oil crazes, but nothing approaching the story of Pithole. And it
-is famous for another reason; it was the scene of the establishment of
-one of the earliest pipe-lines, a system which has been an invaluable
-auxiliary to the growth of the American industry.
 
 The success of the early oil men of the United States not only in
 grappling with the problem of crude production, but with those of
@@ -1539,23 +1539,23 @@ decided to start drilling, roads are built, water lines laid, and the
 lumber, casing machinery and other equipment are hauled to the location
 (often under very primitive and difficult conditions). The apparatus
 most commonly installed under these circumstances is the Pennsylvania
-cable system, which consists of a standard
+cable system, which consists of a standard derrick or rig, built
+of wood or steel, about eighty feet in height, having a twenty-foot
+base and a four-foot top. The strength of the derrick is conditioned
+entirely by the size and depth of the well the operator wishes to
+drill, for nowadays nothing is left to chance. The size of the hole
+necessary in starting a well depends upon the physical formation. If
+it is soft, it is necessary to start with a hole of large diameter, to
+overcome the disabilities produced by caving. It sometimes happens that
+soft formations cave so much that it is necessary to insert several
+columns of casing before the required depth is reached. A hole with a
+large diameter is also used in deep drilling.
 
 [Illustration: The Drader Well in the Moreni field, Roumania. This well
 was producing 20,000 barrels daily when it caught fire]
 
 [Illustration: Burkburnett in northern Texas, showing development since
-August, 1918] derrick or rig, built of wood or steel, about eighty
-feet in height, having a twenty-foot base and a four-foot top. The
-strength of the derrick is conditioned entirely by the size and depth
-of the well the operator wishes to drill, for nowadays nothing is left
-to chance. The size of the hole necessary in starting a well depends
-upon the physical formation. If it is soft, it is necessary to start
-with a hole of large diameter, to overcome the disabilities produced by
-caving. It sometimes happens that soft formations cave so much that it
-is necessary to insert several columns of casing before the required
-depth is reached. A hole with a large diameter is also used in deep
-drilling.
+August, 1918]
 
 The drilling equipment is called by the oil workers a “string of
 tools.” It consists of a rope socket, a stem or sinker about thirty
@@ -1851,18 +1851,18 @@ The teamsters, forseeing that their earnings would be diminished and
 perhaps disappear, if the system were generally adopted, destroyed the
 line and warned other producers against similar attempts. Hutchings
 was obstinate and built a second line. Again the teamsters completely
-destroyed his work. Undaunted, he tried again, with no better luck, and
-in the end died a broken and penniless man. But his idea did not die
-with him. In 1865 one Henry Harley commenced to lay a pipe line to the
-terminus of the Oil Creek railroad but the teamsters not only cut his
-pipes but burned his collection tanks. The State authorities, however,
-gave him armed protection and his line was completed. It was of
+destroyed his work. Undaunted, he tried again, with no better luck,
+and in the end died a broken and penniless man. But his idea did not
+die with him. In 1865 one Henry Harley commenced to lay a pipe line
+to the terminus of the Oil Creek railroad but the teamsters not only
+cut his pipes but burned his collection tanks. The State authorities,
+however, gave him armed protection and his line was completed. It was
+of two-inch diameter, with a rated daily capacity of 800 barrels.
 
 [Illustration: A big yield well in Mexico flowing into a temporary
 storage pond]
 
-[Illustration: Laying a pipe line through a Louisiana forest] two-inch
-diameter, with a rated daily capacity of 800 barrels.
+[Illustration: Laying a pipe line through a Louisiana forest]
 
 J. D. Henry, one of the most eminent historians of petroleum, asserts
 that the first commercially successful pipe line was constructed
@@ -2177,19 +2177,19 @@ The third major fraction of the crude petroleum is the gas oil which
 has previously been referred to. In general this product may be
 marketed without further treatment.
 
-The next and last major fraction is perhaps the most interesting of
-all. It is from this fraction that the host of lubricating products are
-obtained and
-
 [Illustration: Lines for loading oil on vessels anchored from one to
 two miles off shore. This is a regular practice in Mexico where a deep
 harbour is not available]
 
 [Illustration: Battery of crude stills at the Bayway Refinery, Linden,
-N. J.] also the paraffine wax which has almost entirely superseded
-animal and vegetable waxes, not only for candles, but for laundry
-use, for producing water-proof paper, for sealing preserve jars and
-for a multitude of minor uses. The first step in the treatment of
+N. J.]
+
+The next and last major fraction is perhaps the most interesting of
+all. It is from this fraction that the host of lubricating products
+are obtained and also the paraffine wax which has almost entirely
+superseded animal and vegetable waxes, not only for candles, but for
+laundry use, for producing water-proof paper, for sealing preserve jars
+and for a multitude of minor uses. The first step in the treatment of
 this “paraffine distillate” or lubricating oil distillate fraction of
 the crude petroleum is to separate from it the paraffine wax which
 it carries in solution. This is accomplished by chilling the oil to
@@ -2505,21 +2505,21 @@ a locomotive running on fuel oil is so materially increased that it is
 possible to haul with it a greater tonnage at a much increased speed
 than would be possible with a coal fired engine.
 
-Oil as a domestic fuel is gradually making its way because of the
-advantages it gives in the matter of
-
 [Illustration: “Look boxes” in the “Still House,” where the grades of
 oil are separated according to gravity, the process being known as the
 separation of “cuts”]
 
 [Illustration: A modern tanker carrying 4,000,000 gallons of oil]
-cleanliness. Even the time-honoured oil stove has been subjected to
-such improvements as to be a vastly more acceptable inmate of the
-home than it was in days gone by. The use of petroleum as a fuel for
-stationary engines in manufacturing plants has also kept pace with its
-employment in other directions and here again its superior heating
-power, the elimination of dust and the saving of labour involved are
-economic factors of first importance.
+
+Oil as a domestic fuel is gradually making its way because of the
+advantages it gives in the matter of cleanliness. Even the
+time-honoured oil stove has been subjected to such improvements as to
+be a vastly more acceptable inmate of the home than it was in days
+gone by. The use of petroleum as a fuel for stationary engines in
+manufacturing plants has also kept pace with its employment in other
+directions and here again its superior heating power, the elimination
+of dust and the saving of labour involved are economic factors of first
+importance.
 
 The invention of new devices for the utilization of oil have
 necessarily proven a stimulus to manufacture. Indeed, it would be
@@ -3143,16 +3143,17 @@ autocratic domination, just as during the previous half century it had
 become an incalculable influence in the arts of civilization, and had
 effected a beneficent revolution not only in the industrial but the
 social life of countless communities. By American methods of business
-organization it has been made to yield its highest potentialities for
+organization it has been made to yield its highest potentialities
+for the good of humanity, both in peace and war. If this little
+book brings to any reader a fuller knowledge of the romance and
+all-penetrating importance of this great birth-right of the American
+people it will have served its purpose.
 
 [Illustration: A tanker being loaded with gasoline and oil at a
 refinery dock at Port Arthur, Texas, one of the large Gulf oil ports]
 
 [Illustration: Kansas wells flowing oil into a temporary sump, or
-earthen reservoir] the good of humanity, both in peace and war.
-If this little book brings to any reader a fuller knowledge of the
-romance and all-penetrating importance of this great birth-right of the
-American people it will have served its purpose.
+earthen reservoir]
 
 
 
@@ -3445,15 +3446,15 @@ century and that adequate foreign reserves to supplement them must be
 made available by American enterprise. Petroleum is therefore a problem
 about which the man on the street and not merely the oil merchant must
 perforce think internationally. The people of other countries are
-to-day wide awake to the necessity
+to-day wide awake to the necessity of securing petroleum reserves
+for themselves in regions of potential oil-bearing character; and in
+some instances they have shown themselves very active.
 
 [Illustration: Steam stills at a modern refinery]
 
 [Illustration: Storage tank at Cushing, Oklahoma, struck by
 lightning--not an infrequent occurrence. 55,000 barrels of crude oil
-being consumed] of securing petroleum reserves for themselves in
-regions of potential oil-bearing character; and in some instances they
-have shown themselves very active.
+being consumed]
 
 In an exceedingly able paper presented by Mr. David White, Chief of the
 United States Geological Survey, to the Society of Automotive Engineers
