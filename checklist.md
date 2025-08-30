@@ -178,7 +178,7 @@ Instructions for `/* */` and `/# #/` blocks:
 
 ### Unicode EN dashes
 For now, process only EN dash. The EM dash and long dash (2x EM) are left for after the text/html split.
-* [ ] [En dash](https://www.pgdp.net/wiki/En-dash): S/R `([^-])-([^-]|$)` → `\1–\2`
+* [x] [En dash](https://www.pgdp.net/wiki/En-dash): S/R `([^-])-([^-]|$)` → `\1–\2`
   * Range of numbers `12–15`
   * Mathematical minus sign `15 – 12 = 3`
   * Negative numbers `–14º`
