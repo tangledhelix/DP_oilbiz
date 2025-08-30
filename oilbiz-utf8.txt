@@ -4568,7 +4568,7 @@ A glance at the world’s production for the year
 in this matter than all the other nations combined.
 The production was distributed as follows:
 
-/*
+/*[4]
 United States       66.2 per cent.
 Russia              13.6  ”    ”
 Mexico              10.9  ”    ”

@@ -208,10 +208,10 @@ We now proceed to create a Plain Text Version of the book.
 ### Fix ASCII Tables
 **Pending implementation in GG2**
 
-* [ ] Search for `/*` (no regex) and step through any tables
+* [x] Search for `/*` (no regex) and step through any tables
   * Compare to page image; reformat to best convey author intent.
   * For complex tables, try using `Txt → ASCII Table Effects` to reformat?
-* [ ] Try this regex to validate that all border characters were replace with box drawing `[=+|-]`
+* [x] Try this regex to validate that all border characters were replace with box drawing `[=+|-]`
 
 ### Rewrap and Clear Rewrap Markers
 * [ ] Search for `^/[*$pcrflxi]` (regex, no match-case) and make any desired [rewrap marker](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) changes before wrapping
