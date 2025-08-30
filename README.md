@@ -89,6 +89,8 @@ Have found a number of other sources using Huttleson; leave it as-is.
 
 ### Transcriber's notes ###
 
+(No use of bold in this book. Smallcaps were used. No thought breaks.)
+
 p. xv: changed “Rumania” to “Roumania” (Moreni Field, Roumania)
 
 p. 50: changed “Egpyt” to “Egypt” (Egypt has also a future)

@@ -15,7 +15,7 @@ F/
 
 /F
 THE EVOLUTION
-<i>of the</i>
+_of the_
 OIL INDUSTRY
 
 BY
@@ -51,11 +51,11 @@ F/
 
 PREFACE
 
-<sc>By Dr. Van H. Manning</sc>
+BY DR. VAN H. MANNING
 
-<i>Director of the Division of Technical Research of the
+_Director of the Division of Technical Research of the
 American Petroleum Institute. Formerly Director of
-the Bureau of Mines of the Department of the Interior</i>
+the Bureau of Mines of the Department of the Interior_
 
 
 A glance at the chapter headings in this little
@@ -233,40 +233,40 @@ CONTENTS
 /X
                        PAGE
 
-<sc>Preface</sc>      v
+PREFACE      v
 By Dr. Van H. Manning.
 
 CHAPTER
 
-I. <sc>Petroleum in History and Legend</sc>      3
+I. PETROLEUM IN HISTORY AND LEGEND      3
 
-II. <sc>What is Petroleum?</sc>      11
+II. WHAT IS PETROLEUM?      11
 
-III. <sc>Dawn of America’s Petroleum Industry</sc>      30
+III. DAWN OF AMERICA’S PETROLEUM INDUSTRY      30
 
-IV. <sc>Founder of the Petroleum Industry</sc>      37
+IV. FOUNDER OF THE PETROLEUM INDUSTRY      37
 
-V. <sc>Petroleum as a World Industry</sc>      44
+V. PETROLEUM AS A WORLD INDUSTRY      44
 
-VI. <sc>Locating the Oil Well</sc>      57
+VI. LOCATING THE OIL WELL      57
 
-VII. <sc>Drilling the Oil Well</sc>      65
+VII. DRILLING THE OIL WELL      65
 
-VIII. <sc>Collecting and Transporting Crude:
-The Pipe Line</sc>      76
+VIII. COLLECTING AND TRANSPORTING CRUDE:
+THE PIPE LINE      76
 
-IX. <sc>Refining and Manufacturing Petroleum
-Products</sc>      89
+IX. REFINING AND MANUFACTURING PETROLEUM
+PRODUCTS      89
 
-X. <sc>Petroleum and Other Industries</sc>      106
+X. PETROLEUM AND OTHER INDUSTRIES      106
 
-XI. <sc>Petroleum on the Seven Seas</sc>      116
+XI. PETROLEUM ON THE SEVEN SEAS      116
 
-XII. <sc>Petroleum in the Great War</sc>      129
+XII. PETROLEUM IN THE GREAT WAR      129
 
-XIII. <sc>America’s Investment in Petroleum</sc>      148
+XIII. AMERICA’S INVESTMENT IN PETROLEUM      148
 
-XIV. <sc>Petroleum in the Future</sc>      160
+XIV. PETROLEUM IN THE FUTURE      160
 X/
 
 
@@ -278,7 +278,7 @@ LIST OF ILLUSTRATIONS
 /X
 The first oil well, drilled near Titusville, Pa.,
 on August 27, 1859, by Col. Edwin L.
-Drake                               <i>Frontispiece</i>
+Drake                               _Frontispiece_
 
 FACING PAGE
 
@@ -2467,7 +2467,7 @@ became incorporated as the Standard Oil
 Company.
 
 Of the events of 1883 Alfred Lidgett, a noted British
-oil expert and editor of the <i>Petroleum Times</i>
+oil expert and editor of the _Petroleum Times_
 (London, England), says in his book “Petroleum,”
 published in 1919: “Then a few master minds
 came to the front, and loyally supported by John D.
@@ -2994,7 +2994,7 @@ The analogy may be pursued one step further to
 explain one of the most interesting developments
 of the modern petroleum industry, i. e., the manufacture
 of gasoline not naturally contained in crude
-petroleum. This process of <i>manufacturing gasoline</i>
+petroleum. This process of _manufacturing gasoline_
 is called “cracking.”
 
 Let us assume that we desire to obtain from
@@ -3346,7 +3346,7 @@ port of Philadelphia.
 
 In November of 1861 Messrs. Peter Wright and
 Sons, a well known shipping firm of that city, chartered
-a small sailing vessel, the <i>Elizabeth Watts</i>, to
+a small sailing vessel, the _Elizabeth Watts_, to
 carry oil exclusively and to deliver her cargo in
 London. So great was the apprehension among
 sailors of the dangers of sailing on an oil-ship that to
@@ -3378,14 +3378,14 @@ later successfully adopted by other shipowners and
 continued in practice until 1878.
 
 The genesis of the modern tanker dates from the
-launching of the <i>Atlantic</i> at St. Peter’s on the Tyne,
+launching of the _Atlantic_ at St. Peter’s on the Tyne,
 Yorkshire, in August 1863. In the record of this
 launching it was set forth that the vessel was specifically
 designed to carry petroleum in bulk “without
 the aid of casks” but there is no evidence that she
 was ever put into commission. The real beginning
 seems to have been made with the Belgian ship, the
-<i>Charles</i>, which is believed to have been the first
+_Charles_, which is believed to have been the first
 ocean going ship to be fitted with iron tanks for the
 transport of petroleum and to be equipped with
 pumps for unloading the cargo. She was a sailing
@@ -3394,7 +3394,7 @@ vessel and her capacity has been estimated as high as
 plied between New York and European ports. By
 1878 the business of carrying oil in iron ships specially
 built for that purpose, or in converted vessels like the
-<i>Charles</i> had become definitely established and barrel-carrying
+_Charles_ had become definitely established and barrel-carrying
 ships had practically disappeared from
 American harbours. At first oil was carried only on
 sailing vessels, owing to the supposed danger of fire;
@@ -3447,7 +3447,7 @@ development. The place of the tiny craft of the
 ’sixties and ’seventies has been taken to-day by the
 tanker which runs to dimensions of more than 500
 feet in length and correspondingly wide beam.
-Whereas the little Belgian ship, the <i>Charles</i>, fifty
+Whereas the little Belgian ship, the _Charles_, fifty
 years ago carried a maximum of 295,000 gallons, one
 of the larger types of modern oil tankers will carry
 more than 4,500,000 gallons.
@@ -3515,7 +3515,7 @@ obliged to re-fill its bunkers at the end of fifteen days.
 In 1912 an Oil Congress was held in London,
 England, when statistics were presented containing
 a comparison between coal and fuel oil on the great
-Cunard Liner the <i>Mauretania</i>. It was shown that
+Cunard Liner the _Mauretania_. It was shown that
 for the round trip from Liverpool to New York and
 back there would be a saving of at least 5000 tons of
 fuel and that the force of stokers required could be
@@ -4662,7 +4662,7 @@ backing British enterprise in measures directed to
 that end. The point to be borne in mind is that
 American oil men, the real creators of the industry,
 have accomplished what they have in the foreign
-field virtually <i>without</i> governmental support or co-operation.
+field virtually _without_ governmental support or co-operation.
 It is hardly overstating the facts to add
 that they have been harassed and interfered with
 in their efforts to maintain the future security of their
