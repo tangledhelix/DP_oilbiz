@@ -224,7 +224,7 @@ We now proceed to create a Plain Text Version of the book.
 * [x] Rerun Bookloupe or pptext. Resolve any new issues.
 
 ### Final checks
-* [ ] Search for `<` and `>` to locate any tag markup not yet removed.
+* [x] Search for `<` and `>` to locate any tag markup not yet removed.
 
 ### Check revisit list
 * [ ] Check "things to revisit" list for anything lingering in the text version
