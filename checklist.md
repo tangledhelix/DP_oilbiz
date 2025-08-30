@@ -230,8 +230,8 @@ We now proceed to create a Plain Text Version of the book.
 * [x] Check "things to revisit" list for anything lingering in the text version
 
 ### Add TN
-* [ ] Add transcriber's notes, example follows. Use 4+2 blank lines as in new chapter.
-* [ ] Rewrap this section of text when finished.
+* [x] Add transcriber's notes, example follows. Use 4+2 blank lines as in new chapter.
+* [x] Rewrap this section of text when finished.
 
 ```text
 Transcriber’s Note
