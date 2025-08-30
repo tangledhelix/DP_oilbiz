@@ -32,6 +32,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] p. xiii: reformat as table
 * [x] p. xv: reformat as table
 * [x] p. 1: use `/F` rewrap
+* [ ] (HTML) p. 25: a number of LOFE phrases to tag
 
 ### Project manager notes ###
 

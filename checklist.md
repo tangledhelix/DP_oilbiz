@@ -157,10 +157,10 @@ Instructions for `/* */` and `/# #/` blocks:
   * Add TN to text version about this superscript notation
 
 ### Apply Bookloupe
-* [ ] `Tools → Bookloupe`.
+* [x] `Tools → Bookloupe`.
 
 ### Apply Spellcheck
-* [ ] Use `Tools → Spelling`. Proceed through the document, correcting words or adding them to the project dictionary as appropriate.
+* [x] Use `Tools → Spelling`. Proceed through the document, correcting words or adding them to the project dictionary as appropriate.
 
 ### Fix Sidenotes
 * [ ] Read the [discussion](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Sidenotes). Step through sidenotes with: Search & Replace of `[S`, not regex, not whole word, ignore case. Click `Search` to find each Sidenote.
