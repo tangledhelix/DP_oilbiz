@@ -1,3 +1,7 @@
+﻿SMART QUOTE CHECKS (overlay format)
+suspect punctuation marked with '@' character
+-------------------------------------------------------------------
+
 
 
 
@@ -935,7 +939,7 @@ however, had been grappling with the problem of extracting from
 the crude a safe burning oil and eliminating the offensive odour.
 This latter was a very important consideration, and for years after
 petroleum began to assume the proportions of a large industry it
-encountered prejudice on this account. By the later ’fifties so much
+encountered prejudice on this account. By the later [@UCSQ]’fifties so much
 progress had been made that the possibilities had been created not
 merely for a large domestic trade in oil, but also for the development
 of an export market. Drake’s discoveries at Titusville in August, 1859,
@@ -1711,7 +1715,7 @@ wells a permanent derrick is built, but in earlier days, for shallower
 holes a portable drilling machine was used, and with good fortune oil
 was often reached within a short time and the cost kept well within
 a margin of $5,000. It will be remembered that in the original Drake
-well at Titusville, oil was struck at sixty-nine and a half feet and
+well at Titusville, oil was struck at sixty nine and a half feet and
 that it took seven months to drill the well; a concrete illustration
 of the improvement in methods which has transpired in sixty years. But
 the days of cheap drilling have passed into the limbo of half-forgotten
@@ -2624,7 +2628,7 @@ sailing vessels, owing to the supposed danger of fire; but gradually
 adjustments were made which rendered it feasible to propel oil ships by
 steam.
 
-The growth of the petroleum industry in the ’eighties made it clear
+The growth of the petroleum industry in the [@UCSQ]’eighties made it clear
 that the converted oil ship was uneconomical and somewhat dangerous.
 Leakages in such vessels produced gases that sometimes caused
 explosions; and one curious fact was demonstrated, namely, that there
@@ -2655,7 +2659,7 @@ since ceased as a result of the stupendous development of our refining
 industry, but Mexico has lately come into prominence as an exporter of
 crude. In comparison with the earlier oil ships the modern tanker shows
 the same ratio of growth which characterizes all phases of petroleum
-development. The place of the tiny craft of the ’sixties and ’seventies
+development. The place of the tiny craft of the [@UCSQ]’sixti[@UCSQ]es and ’seventies
 has been taken to-day by the tanker which runs to dimensions of more
 than 500 feet in length and correspondingly wide beam. Whereas the
 little Belgian ship, the _Charles_, fifty years ago carried a maximum
@@ -3090,7 +3094,7 @@ under boilers gave us the increased efficiency of the destroyer, which
 conquered the submarine. It was the ability of the Allies to obtain a
 constant, ample supply of oil and the superiority of oil over coal as
 fuel for naval operations that finally turned the tide of battle and
-proved a decisive factor in the war.
+proved a decisive factor in the war.[@NESK “]
 
 “The destroyers that broke down the morale of Germany’s undersea crews
 were oil burners of such remarkable flexibility and speed as to bring
@@ -3102,7 +3106,7 @@ submarine preyed. The original fleet of war vessels which the United
 States despatched to convey merchant vessels and hunt U-boats were all
 16,250 horse power, which at top speed could show 32 to 35 knots an
 hour. Later on we had destroyers developing 27,000 horse power but the
-small boats had already proved the case for oil fuel in war.
+small boats had already proved the case for oil fuel in war.[@NESK “]
 
 “One of the reasons for the success of the destroyer in keeping the
 lanes of travel reasonably free from the undersea menace was the
@@ -3113,7 +3117,7 @@ the rate of 40,000 gallons an hour, without interruption even in the
 roughest weather. Indeed, there were times when bunkering was done with
 both vessels travelling at six knots an hour. Similarly oil gave the
 larger warships increased speed and independence in the matter of fuel
-stations.
+stations.[@NESK “]
 
 “The British battle cruisers with which Admiral Sturdee destroyed the
 German fleet at the Falkland Islands were oil burners. To-day, modern
@@ -3322,7 +3326,7 @@ and railroad terminal property, extensive manufacturing plants for the
 production of tin containers, factories for the manufacturing of steel
 and wooden barrels, foundries, machine shops, pattern shops, etc.
 
-As a reserve between the current daily production and the refineries’
+As a reserve between the current daily production and the refineries[@UCSQ]’
 consumption there is always above ground a stock of crude petroleum
 awaiting its turn to pass through the pipe lines, this stock varying
 greatly according to the demands of the refineries and the rate of
@@ -3510,10 +3514,10 @@ United States has more at stake in this matter than all the other
 nations combined. The production was distributed as follows:
 
     United States       66.2 per cent.
-    Russia              13.6  ”    ”
-    Mexico              10.9  ”    ”
-    Dutch East Indies    2.6  ”    ”
-    Other countries      6.7  ”    ”
+    Russia              13.6  [@UCDQ][@UCDQ]”    ”
+    Mexico              10.9  [@UCDQ][@UCDQ]”    ”
+    Dutch East Indies    2.6  [@UCDQ][@UCDQ]”    ”
+    Other countries      6.7  [@UCDQ][@UCDQ]”    ”
 
 Since then the proportion has been altered, Russia dropping to third
 place and Mexico rising to second, the relation of the United States to
@@ -3764,7 +3768,9 @@ with certainty; lacking such coöperation, the future is fraught with
 hazard to an industry that stands as a monument to American organizing
 genius.
 
+
                                 THE END
+
 
              THE COUNTRY LIFE PRESS, GARDEN CITY, NEW YORK
 
