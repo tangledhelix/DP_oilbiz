@@ -14,18 +14,18 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] (HTML) Chapters start with 1-2 words in smallcaps?
-* [ ] (HTML) And chapters (after preface) have dropcap+smallcaps...
-* [ ] p. iii: title page, includes illustration
-* [ ] p. iv: verso
-* [ ] p. xiii: ToC
-* [ ] pp. xv-xvi: list of illos
-* [ ] p. 1: third title page?? c'mon guys
-* [ ] pp. 37-38: cited block from an inscription
-* [ ] p. 165: table
-* [ ] p. 178: block quotation
-* [ ] p. 178: "the end"
-* [ ] p. 178: printer imprint
+* [x] (HTML) Chapters start with 1-2 words in smallcaps?
+* [x] (HTML) And chapters (after preface) have dropcap+smallcaps...
+* [x] p. iii: title page, includes illustration
+* [x] p. iv: verso
+* [x] p. xiii: ToC
+* [x] pp. xv-xvi: list of illos
+* [x] p. 1: third title page?? c'mon guys
+* [x] pp. 37-38: cited block from an inscription
+* [x] p. 165: table
+* [x] p. 178: block quotation
+* [x] p. 178: "the end"
+* [x] p. 178: printer imprint
 * [x] p. i: use `/F` rewrap
 * [x] p. iii: use `/F` rewrap
 * [x] p. iv: use `/F` rewrap
@@ -33,6 +33,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] p. xv: reformat as table
 * [x] p. 1: use `/F` rewrap
 * [ ] (HTML) p. 25: a number of LOFE phrases to tag
+* [ ] (HTML) change illustration ToC to point to image IDs not Page anchors
 
 ### Project manager notes ###
 
