@@ -296,16 +296,16 @@ References: ([p1347865](https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p134
   * Where you see a problem, make a correction in Guiguts, save the file, and click the "reload" button in the web browser.
 * [x] Hyperlink page references in text, TOC, and index (discussed [here](https://www.pgdp.net/wiki/PPTools/Guiguts/HTML#Hyperlinking_Page_Numbers) and [here](https://www.pgdp.net/wiki/Indexes)).
 * [x] Remove the [Generated TOC](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/HTML_Menu#Generated_TOC) if it is not needed.
-* [ ] If `A.M.` `P.M.` or similar abbreviations were used and have spaces, insert `&nbsp;` to avoid undesirable mid-abbreviation line wraps.
-* [ ] If superscripts were used, convert to `<sup>`
-* [ ] Semantic fixup for italics
+* [x] If `A.M.` `P.M.` or similar abbreviations were used and have spaces, insert `&nbsp;` to avoid undesirable mid-abbreviation line wraps.
+* [x] If superscripts were used, convert to `<sup>`
+* [x] Semantic fixup for italics
   * (Note: `lang="xx"` can be used on **any** HTML tag including `cite`, `em`, ...)
   * Search `<i>((.|\n)+?)</i>`
   * Replace (emphasis) `<em>\1</em>`
   * Replace (citation) `<cite>\1</cite>`
   * Replace ([languages](http://www.w3schools.com/tags/ref_language_codes.asp)) `<i lang="fr">\1</i>`
   * Leave other cases as `<i>..</i>`
-* [ ] Add `abbr` tags if appropriate. ([Reference](https://www.pgdp.net/wiki/Accessibility_Recipes/Abbreviations))
+* [x] Add `abbr` tags if appropriate. ([Reference](https://www.pgdp.net/wiki/Accessibility_Recipes/Abbreviations))
 
 ### Fractions
 For consistency the superscript/subscript form of fractions might be best (e.g. the 3-character ¹⁄₂ vs. single-character ½). A few fractions have a single character form but most do not. And fractions like 5/16 have no 3-char form even, you need 4 ...
