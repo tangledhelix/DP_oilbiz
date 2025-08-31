@@ -47,6 +47,7 @@ Images from [TIA](https://archive.org/details/evolutionofoilin00rossrich).
 
 * [ ] p. ii: full page w/ caption
 * [ ] p. iii: publisher stamp
+* [x] p. iii: use as cover
 * [ ] p. 26: full page following, w/ caption
 * [ ] p. 42: full page following (#1), w/ caption
 * [ ] p. 42: full page following (#2), w/ caption

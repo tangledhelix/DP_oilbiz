@@ -314,7 +314,7 @@ Guiguts has fraction conversion tools: Tools → Convert Fractions
 
 This regex: `([¹²³⁴⁵⁶⁷⁸⁹⁰]+⁄[₁₂₃₄₅₆₇₈₉₀]+)` may be of use to locate fractions once converted.
 
-* [ ] Handle any fractions
+* [x] Handle any fractions
 
 ### Process Hi-resolution Images
 If the project manager provided high-resolution scans of the images in the text, use an image processing program such as GIMP or Adobe Photoshop Elements to optimize them—see [Guide to Image Processing](https://www.pgdp.net/wiki/Guide_to_Image_Processing). You can do this before, during, or after HTML conversion.
