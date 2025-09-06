@@ -34,6 +34,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] p. 1: use `/F` rewrap
 * [ ] (HTML) p. 25: a number of LOFE phrases to tag
 * [ ] (HTML) change illustration ToC to point to image IDs not Page anchors
+* [ ] (HTML) verify viewport tag addition didn't cause a problem.
 
 ### Project manager notes ###
 
@@ -45,24 +46,24 @@ Images from [TIA](https://archive.org/details/evolutionofoilin00rossrich).
 
 ### Illustrations ###
 
-* [ ] p. ii: full page w/ caption
-* [ ] p. iii: publisher stamp
-* [x] p. iii: use as cover
-* [ ] p. 26: full page following, w/ caption
-* [ ] p. 42: full page following (#1), w/ caption
-* [ ] p. 42: full page following (#2), w/ caption
-* [ ] p. 66: full page following (#1), w/ caption
-* [ ] p. 66: full page following (#2), w/ caption
-* [ ] p. 82: full page following (#1), w/ caption
-* [ ] p. 82: full page following (#2), w/ caption
-* [ ] p. 98: full page following (#1), w/ caption
-* [ ] p. 98: full page following (#2), w/ caption
-* [ ] p. 114: full page following (#1), w/ caption
-* [ ] p. 114: full page following (#2), w/ caption
-* [ ] p. 146: full page following (#1), w/ caption
-* [ ] p. 146: full page following (#2), w/ caption
-* [ ] p. 162: full page following (#1), w/ caption
-* [ ] p. 162: full page following (#2), w/ caption
+* [x] p. ii (f004): frontispiece: full page w/ caption
+* [x] p. iii (f005): publisher stamp
+* [x] p. iii (f005): use as cover
+* [x] p. 26 (p026a): full page following, w/ caption
+* [x] p. 42 (p042a): full page following (#1), w/ caption
+* [x] p. 42 (p042b): full page following (#2), w/ caption
+* [x] p. 66 (p066a): full page following (#1), w/ caption
+* [x] p. 66 (p066b): full page following (#2), w/ caption
+* [x] p. 82 (p082a): full page following (#1), w/ caption
+* [x] p. 82 (p082b): full page following (#2), w/ caption
+* [x] p. 98 (p098a): full page following (#1), w/ caption
+* [x] p. 98 (p098b): full page following (#2), w/ caption
+* [x] p. 114 (p114a): full page following (#1), w/ caption
+* [x] p. 114 (p114b): full page following (#2), w/ caption
+* [x] p. 146 (p146a): full page following (#1), w/ caption
+* [x] p. 146 (p146b): full page following (#2), w/ caption
+* [x] p. 162 (p162a): full page following (#1), w/ caption
+* [x] p. 162 (p162b): full page following (#2), w/ caption
 
 ### Proofer's notes ###
 

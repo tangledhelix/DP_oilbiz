@@ -344,15 +344,15 @@ Image [sizes](https://www.pgdp.net/phpBB3/viewtopic.php?f=3&t=70286):
 * Covers: see [cover documentation](https://www.pgdp.net/wiki/PP_guide_to_cover_pages). Recommend 1600x2560, aspect ratio ~1:1.6. Not over 5000x5000px. Minimum 650x1000. **No specific file size limit**, but use judgement and don't make it larger than necessary.
 
 For each image:
-* [ ] Load image from the `pngs/` folder.
-* [ ] Straighten it (almost all scanned images are off-perpendicular; some are trapezoidal owing to the page not being flat on the scan window). Perspective tool.
-* [ ] Crop it to remove all redundant white space and borders (provide margins and borders with CSS styling of the `<img>` markup).
-* [ ] Correct the contrast
-* [ ] Use the [dodge/burn layer technique](https://www.pgdp.net/wiki/Guide_to_Image_Processing#Linear_Light_in_The_GIMP) to clean up, at least for line drawings
-* [ ] Resize if needed.
-* [ ] Sharpen.
-* [ ] Correct any major scratches, freckles, dirt, etc.
-* [ ] Save in the subfolder `images/` using appropriate type:
+* [x] Load image from the `pngs/` folder.
+* [x] Straighten it (almost all scanned images are off-perpendicular; some are trapezoidal owing to the page not being flat on the scan window). Perspective tool.
+* [x] Crop it to remove all redundant white space and borders (provide margins and borders with CSS styling of the `<img>` markup).
+* [x] Correct the contrast
+* [x] Use the [dodge/burn layer technique](https://www.pgdp.net/wiki/Guide_to_Image_Processing#Linear_Light_in_The_GIMP) to clean up, at least for line drawings
+* [x] Resize if needed.
+* [x] Sharpen.
+* [x] Correct any major scratches, freckles, dirt, etc.
+* [x] Save in the subfolder `images/` using appropriate type:
   * Line drawings in `.png` at 8 bits per pixel (not the default 24-bit RGB format).
   * Photographs as `.jpg` with an appropriate compression level such as (Photoshop) level 6.
 * [ ] Use `HTML → Auto-Illustrations`. This will help add the images to the book.
