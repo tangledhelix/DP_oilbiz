@@ -32,9 +32,9 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] p. xiii: reformat as table
 * [x] p. xv: reformat as table
 * [x] p. 1: use `/F` rewrap
-* [ ] (HTML) p. 25: a number of LOFE phrases to tag
-* [ ] (HTML) change illustration ToC to point to image IDs not Page anchors
-* [ ] (HTML) verify viewport tag addition didn't cause a problem.
+* [x] (HTML) p. 25: a number of LOFE phrases to tag
+* [x] (HTML) change illustration ToC to point to image IDs not Page anchors
+* [x] (HTML) verify viewport tag addition didn't cause a problem.
 
 ### Project manager notes ###
 
