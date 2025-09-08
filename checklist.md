@@ -355,10 +355,10 @@ For each image:
 * [x] Save in the subfolder `images/` using appropriate type:
   * Line drawings in `.png` at 8 bits per pixel (not the default 24-bit RGB format).
   * Photographs as `.jpg` with an appropriate compression level such as (Photoshop) level 6.
-* [ ] Use `HTML → Auto-Illustrations`. This will help add the images to the book.
-* [ ] Page through entire HTML book making sure that each image is being loaded correctly. Test each thumbnail if used.
-* [ ] If any images were modified substantially (including removing a library sticker or stamp), add a TN. Place the new image in the public domain in the TN. This is a PG requirement.
-* [ ] If fabricating your own cover, add the TN as noted in [Easy_Epub/Cover](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub/Cover).
+* [x] Use `HTML → Auto-Illustrations`. This will help add the images to the book.
+* [x] Page through entire HTML book making sure that each image is being loaded correctly. Test each thumbnail if used.
+* [x] If any images were modified substantially (including removing a library sticker or stamp), add a TN. Place the new image in the public domain in the TN. This is a PG requirement.
+* [x] If fabricating your own cover, add the TN as noted in [Easy_Epub/Cover](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub/Cover).
 
 ### Check "things to revisit"
 * [ ] Check revisit list for anything left for the HTML version

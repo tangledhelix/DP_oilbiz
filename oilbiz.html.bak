@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       The Evolution of the Oil Industry | Project Gutenberg
     </title>
@@ -246,7 +247,7 @@ img.w100 {width: 100%;}
 }
 
 /* indent paragraphs */
-p { text-indent: 1em; }
+p { text-indent: 1.25em; }
 p.noindent { text-indent: 0; }
 
 /* de-emphasize page numbers */
@@ -331,7 +332,17 @@ p.drop-cap:first-letter
   font-size: 100%;
 }
 
-    <
+
+/* Illustration classes */
+.illowp100 {width: 100%;}
+.illowe6 {width: 4em;}
+.illowp46 {width: 46%;}
+.x-ebookmaker .illowp46 {width: 100%;}
+.illowp48 {width: 48%;}
+.x-ebookmaker .illowp48 {width: 100%;}
+.illowp49 {width: 49%;}
+.x-ebookmaker .illowp49 {width: 100%;}
+    </style>
 </head>
 <body>
 
@@ -344,8 +355,13 @@ OIL INDUSTRY
 
 <p><span class="pagenum" id="Page_ii">[Pg ii]</span></p>
 
-<p>[Illustration: The first oil well drilled near Titusville, Pa., on August 27,
-1859, by Col. Edwin L. Drake, the pioneer man of the world]</p>
+<figure class="figcenter illowp48" id="i_f004" style="max-width: 111.8125em;">
+  <img class="w100" src="images/i_f004.jpg" alt="">
+  <figcaption>
+      <p>The first oil well drilled near Titusville, Pa., on August 27,
+    1859, by Col. Edwin L. Drake, the pioneer man of the world</p>
+  </figcaption>
+</figure>
 
 <div class="title-outer">
 <div class="title-inner">
@@ -358,7 +374,9 @@ OIL INDUSTRY</p>
 <p class="center noindent p2">BY<br>
 <span class="center title-l">VICTOR ROSS</span></p>
 
-<p class="center noindent p2">[Illustration]</p>
+<p class="center noindent p2"><figure class="figcenter illowe6" id="i_publisher_logo">
+  <img class="w100" src="images/i_publisher_logo.png" alt="">
+</figure>
 
 <p class="center noindent p2">ILLUSTRATED<br>
 FROM<br>
@@ -681,73 +699,73 @@ Drake</td>
 </tr>
 <tr>
 <td class="tdl">A temporary oil reservoir in Oklahoma</td>
-<td class="tdr"><a href="#Page_26">26</a></td>
+<td class="tdr"><a href="#i_p026a">26</a></td>
 </tr>
 <tr>
 <td class="tdl">Early activity; the famous Red Hot Oil Field
 near Shamburg, Pa.</td>
-<td class="tdr"><a href="#Page_42">42</a></td>
+<td class="tdr"><a href="#i_p042a">42</a></td>
 </tr>
 <tr>
 <td class="tdl">Where Pithole stood</td>
-<td class="tdr"><a href="#Page_43">43</a></td>
+<td class="tdr"><a href="#i_p042b">43</a></td>
 </tr>
 <tr>
 <td class="tdl">The Drader Well in the Moreni Field, Roumania</td>
-<td class="tdr"><a href="#Page_66">66</a></td>
+<td class="tdr"><a href="#i_p066a">66</a></td>
 </tr>
 <tr>
 <td class="tdl">Burkburnett in Northern Texas</td>
-<td class="tdr"><a href="#Page_67">67</a></td>
+<td class="tdr"><a href="#i_p066b">67</a></td>
 </tr>
 <tr>
 <td class="tdl">Big yield well in Mexico flowing into temporary
 storage pond</td>
-<td class="tdr"><a href="#Page_82">82</a></td>
+<td class="tdr"><a href="#i_p082a">82</a></td>
 </tr>
 <tr>
 <td class="tdl">Laying a pipe line through a Louisiana forest</td>
-<td class="tdr"><a href="#Page_83">83</a></td>
+<td class="tdr"><a href="#i_p082b">83</a></td>
 </tr>
 <tr>
 <td class="tdl">Lines for loading oil on vessels standing from
 one to two miles at sea</td>
-<td class="tdr"><a href="#Page_98">98</a></td>
+<td class="tdr"><a href="#i_p098a">98</a></td>
 </tr>
 <tr>
 <td class="tdl">Battery of crude stills at the Bayway Refinery,
 Linden, N. J.</td>
-<td class="tdr"><a href="#Page_99">99</a></td>
+<td class="tdr"><a href="#i_p098b">99</a></td>
 </tr>
 <tr>
 <td class="tdl">“Look boxes” in the “Still House” where the
 grades of oil are separated according to
 gravity</td>
-<td class="tdr"><a href="#Page_114">114</a></td>
+<td class="tdr"><a href="#i_p114a">114</a></td>
 </tr>
 <tr>
 <td class="tdl"><span class="pagenum" id="Page_xvi">[Pg xvi]</span>
 A modern tanker carrying 4,000,000 gallons of oil</td>
-<td class="tdr"><a href="#Page_115">115</a></td>
+<td class="tdr"><a href="#i_p114b">115</a></td>
 </tr>
 <tr>
 <td class="tdl">A tanker being loaded with gasoline and oil
 at a refinery dock at Port Arthur, Texas</td>
-<td class="tdr"><a href="#Page_146">146</a></td>
+<td class="tdr"><a href="#i_p146a">146</a></td>
 </tr>
 <tr>
 <td class="tdl">Kansas wells flowing oil into a temporary
 sump, or earthen reservoir</td>
-<td class="tdr"><a href="#Page_147">147</a></td>
+<td class="tdr"><a href="#i_p146b">147</a></td>
 </tr>
 <tr>
 <td class="tdl">Steam stills at a modern refinery</td>
-<td class="tdr"><a href="#Page_162">162</a></td>
+<td class="tdr"><a href="#i_p162a">162</a></td>
 </tr>
 <tr>
 <td class="tdl">Storage tank at Cushing, Oklahoma, struck
 by lightning</td>
-<td class="tdr"><a href="#Page_163">163</a></td>
+<td class="tdr"><a href="#i_p162b">163</a></td>
 </table>
 
 <div class="pagebreak"></div>
@@ -1415,8 +1433,13 @@ commonly impregnating the shale from which it is
 removed by boiling and removed as a scum on the
 boiling water.</p>
 
-<p>[Illustration: A temporary oil reservoir in Oklahoma. When petroleum is produced in advance of the erection of tanks
-it is held by earthen dams]</p>
+<figure class="figcenter illowp100" id="i_p026a" style="max-width: 182.0em;">
+  <img class="w100" src="images/i_p026a.jpg" alt="">
+  <figcaption>
+      <p>A temporary oil reservoir in Oklahoma. When petroleum is produced in advance of the erection of tanks
+    it is held by earthen dams</p>
+  </figcaption>
+</figure>
 
 <p><span class="pagenum" id="Page_27">[Pg 27]</span></p>
 
@@ -1832,12 +1855,7 @@ with many legitimate oil men. In the speculation
 that ensued fortunes were made and lost daily.
 Then, after a year or two, the wells which had shown
 such riches began to decline and Pithole was quickly
-deserted. A few years later a visitor found only</p>
-
-<p>[Illustration: Early activity; the famous Red Hot Oil Field near Shamburg, Pa., in 1870]</p>
-
-<p>[Illustration: Where Pithole stood—the main street of a Pennsylvania oil town, which had a population of 20,000 in
-1870, as it looks to-day]
+deserted. A few years later a visitor found only
 <span class="pagenum" id="Page_43">[Pg 43]</span>two inhabited houses in a city that had for a time
 been the home of thousands of restless mortals.
 Later still some of the abandoned wells were made
@@ -1849,6 +1867,21 @@ famous for another reason; it was the scene of the
 establishment of one of the earliest pipe-lines, a
 system which has been an invaluable auxiliary to the
 growth of the American industry.</p>
+
+<figure class="figcenter illowp100" id="i_p042a" style="max-width: 181.75em;">
+  <img class="w100" src="images/i_p042a.jpg" alt="">
+  <figcaption>
+      <p>Early activity; the famous Red Hot Oil Field near Shamburg, Pa., in 1870</p>
+  </figcaption>
+</figure>
+
+<figure class="figcenter illowp100" id="i_p042b" style="max-width: 180.5em;">
+  <img class="w100" src="images/i_p042b.jpg" alt="">
+  <figcaption>
+      <p>Where Pithole stood—the main street of a Pennsylvania oil town, which had a population of 20,000 in
+    1870, as it looks to-day</p>
+  </figcaption>
+</figure>
 
 <p>The success of the early oil men of the United
 States not only in grappling with the problem of
@@ -2458,13 +2491,7 @@ casing machinery and other equipment are hauled
 to the location (often under very primitive and difficult
 conditions). The apparatus most commonly
 installed under these circumstances is the Pennsylvania
-cable system, which consists of a standard</p>
-
-<p>[Illustration: The Drader Well in the Moreni field, Roumania. This well
-was producing 20,000 barrels daily when it caught fire]</p>
-
-<p>[Illustration: Burkburnett in northern Texas, showing development
-since August, 1918]
+cable system, which consists of a standard
 <span class="pagenum" id="Page_67">[Pg 67]</span>derrick or rig, built of wood or steel, about eighty
 feet in height, having a twenty-foot base and a four-foot
 top. The strength of the derrick is conditioned
@@ -2479,6 +2506,22 @@ cave so much that it is necessary to insert several
 columns of casing before the required depth is
 reached. A hole with a large diameter is also used
 in deep drilling.</p>
+
+<figure class="figcenter illowp46" id="i_p066a" style="max-width: 109.5625em;">
+  <img class="w100" src="images/i_p066a.jpg" alt="">
+  <figcaption>
+      <p>The Drader Well in the Moreni field, Roumania. This well
+    was producing 20,000 barrels daily when it caught fire</p>
+  </figcaption>
+</figure>
+
+<figure class="figcenter illowp48" id="i_p066b" style="max-width: 112.25em;">
+  <img class="w100" src="images/i_p066b.jpg" alt="">
+  <figcaption>
+      <p>Burkburnett in northern Texas, showing development
+    since August, 1918</p>
+  </figcaption>
+</figure>
 
 <p>The drilling equipment is called by the oil workers
 a “string of tools.” It consists of a rope socket, a
@@ -2883,13 +2926,23 @@ Harley commenced to lay a pipe line to the terminus
 of the Oil Creek railroad but the teamsters
 not only cut his pipes but burned his collection tanks.
 The State authorities, however, gave him armed
-protection and his line was completed. It was of</p>
-
-<p>[Illustration: A big yield well in Mexico flowing into a temporary storage pond]</p>
-
-<p>[Illustration: Laying a pipe line through a Louisiana forest]
+protection and his line was completed. It was of
 <span class="pagenum" id="Page_83">[Pg 83]</span>two-inch diameter, with a rated daily capacity of
 800 barrels.</p>
+
+<figure class="figcenter illowp100" id="i_p082a" style="max-width: 183.5625em;">
+  <img class="w100" src="images/i_p082a.jpg" alt="">
+  <figcaption>
+      <p>A big yield well in Mexico flowing into a temporary storage pond</p>
+  </figcaption>
+</figure>
+
+<figure class="figcenter illowp48" id="i_p082b" style="max-width: 111.75em;">
+  <img class="w100" src="images/i_p082b.jpg" alt="">
+  <figcaption>
+      <p>Laying a pipe line through a Louisiana forest</p>
+  </figcaption>
+</figure>
 
 <p>J. D. Henry, one of the most eminent historians
 of petroleum, asserts that the first commercially
@@ -3306,15 +3359,25 @@ is the gas oil which has previously been referred to.
 In general this product may be marketed without
 further treatment.</p>
 
+<figure class="figcenter illowp48" id="i_p098a" style="max-width: 112.5625em;">
+  <img class="w100" src="images/i_p098a.jpg" alt="">
+  <figcaption>
+      <p>Lines for loading oil on vessels anchored from one to two miles
+    off shore. This is a regular practice in Mexico where a deep
+    harbour is not available</p>
+  </figcaption>
+</figure>
+
+<figure class="figcenter illowp100" id="i_p098b" style="max-width: 183.6875em;">
+  <img class="w100" src="images/i_p098b.jpg" alt="">
+  <figcaption>
+      <p>Battery of crude stills at the Bayway Refinery, Linden, N. J.</p>
+  </figcaption>
+</figure>
+
 <p>The next and last major fraction is perhaps the
 most interesting of all. It is from this fraction that
-the host of lubricating products are obtained and</p>
-
-<p>[Illustration: Lines for loading oil on vessels anchored from one to two miles
-off shore. This is a regular practice in Mexico where a deep
-harbour is not available]</p>
-
-<p>[Illustration: Battery of crude stills at the Bayway Refinery, Linden, N. J.]
+the host of lubricating products are obtained and
 <span class="pagenum" id="Page_99">[Pg 99]</span>also the paraffine wax which has almost entirely
 superseded animal and vegetable waxes, not only
 for candles, but for laundry use, for producing
@@ -3735,13 +3798,23 @@ increased that it is possible to haul with it a greater
 tonnage at a much increased speed than would be
 possible with a coal fired engine.</p>
 
+<figure class="figcenter illowp100" id="i_p114a" style="max-width: 184.25em;">
+  <img class="w100" src="images/i_p114a.jpg" alt="">
+  <figcaption>
+      <p>“Look boxes” in the “Still House,” where the grades of oil are separated according to gravity, the process
+    being known as the separation of “cuts”</p>
+  </figcaption>
+</figure>
+
+<figure class="figcenter illowp100" id="i_p114b" style="max-width: 182.375em;">
+  <img class="w100" src="images/i_p114b.jpg" alt="">
+  <figcaption>
+      <p>A modern tanker carrying 4,000,000 gallons of oil</p>
+  </figcaption>
+</figure>
+
 <p>Oil as a domestic fuel is gradually making its way
-because of the advantages it gives in the matter of</p>
-
-<p>[Illustration: “Look boxes” in the “Still House,” where the grades of oil are separated according to gravity, the process
-being known as the separation of “cuts”]</p>
-
-<p>[Illustration: A modern tanker carrying 4,000,000 gallons of oil]
+because of the advantages it gives in the matter of
 <span class="pagenum" id="Page_115">[Pg 115]</span>cleanliness. Even the time-honoured oil stove has
 been subjected to such improvements as to be a
 vastly more acceptable inmate of the home than it
@@ -4581,18 +4654,28 @@ incalculable influence in the arts of civilization, and
 had effected a beneficent revolution not only in the
 industrial but the social life of countless communities.
 By American methods of business organization it
-has been made to yield its highest potentialities for</p>
-
-<p>[Illustration: A tanker being loaded with gasoline and oil at a refinery dock
-at Port Arthur, Texas, one of the large Gulf oil ports]</p>
-
-<p>[Illustration: Kansas wells flowing oil into a temporary sump, or
-earthen reservoir]
+has been made to yield its highest potentialities for
 <span class="pagenum" id="Page_147">[Pg 147]</span>the good of humanity, both in peace and war. If
 this little book brings to any reader a fuller knowledge
 of the romance and all-penetrating importance of
 this great birth-right of the American people it will
 have served its purpose.</p>
+
+<figure class="figcenter illowp48" id="i_p146a" style="max-width: 116.6875em;">
+  <img class="w100" src="images/i_p146a.jpg" alt="">
+  <figcaption>
+      <p>A tanker being loaded with gasoline and oil at a refinery dock
+    at Port Arthur, Texas, one of the large Gulf oil ports</p>
+  </figcaption>
+</figure>
+
+<figure class="figcenter illowp48" id="i_p146b" style="max-width: 114.6875em;">
+  <img class="w100" src="images/i_p146b.jpg" alt="">
+  <figcaption>
+      <p>Kansas wells flowing oil into a temporary sump, or
+    earthen reservoir</p>
+  </figcaption>
+</figure>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
@@ -4985,17 +5068,27 @@ made available by American enterprise. Petroleum
 is therefore a problem about which the man on the
 street and not merely the oil merchant must perforce
 think internationally. The people of other
-countries are to-day wide awake to the necessity</p>
-
-<p>[Illustration: Steam stills at a modern refinery]</p>
-
-<p>[Illustration: Storage tank at Cushing, Oklahoma, struck by lightning—not
-an infrequent occurrence. 55,000 barrels of crude oil being
-consumed]
+countries are to-day wide awake to the necessity
 <span class="pagenum" id="Page_163">[Pg 163]</span>of securing petroleum reserves for themselves in
 regions of potential oil-bearing character; and in
 some instances they have shown themselves very
 active.</p>
+
+<figure class="figcenter illowp100" id="i_p162a" style="max-width: 185.4375em;">
+  <img class="w100" src="images/i_p162a.jpg" alt="">
+  <figcaption>
+      <p>Steam stills at a modern refinery</p>
+  </figcaption>
+</figure>
+
+<figure class="figcenter illowp49" id="i_p162b" style="max-width: 113.75em;">
+  <img class="w100" src="images/i_p162b.jpg" alt="">
+  <figcaption>
+      <p>Storage tank at Cushing, Oklahoma, struck by lightning—not
+    an infrequent occurrence. 55,000 barrels of crude oil being
+    consumed</p>
+  </figcaption>
+</figure>
 
 <p>In an exceedingly able paper presented by Mr.
 David White, Chief of the United States Geological
