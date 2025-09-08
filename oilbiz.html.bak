@@ -294,7 +294,7 @@ blockquote {
 
 /* title page layout & decoration */
 .title-outer {
-  page-break-before-always;
+  page-break-before: always;
   border: thick double black;
   margin: 1em auto;
   width: 100%;
@@ -374,8 +374,8 @@ OIL INDUSTRY</p>
 <p class="center noindent p2">BY<br>
 <span class="center title-l">VICTOR ROSS</span></p>
 
-<p class="center noindent p2"><figure class="figcenter illowe6" id="i_publisher_logo">
-  <img class="w100" src="images/i_publisher_logo.png" alt="">
+<figure class="figcenter illowe6" id="i_publisher_logo">
+  <img class="w100" src="images/i_publisher_logo.png" alt="" data-role="presentation">
 </figure>
 
 <p class="center noindent p2">ILLUSTRATED<br>
@@ -1387,11 +1387,11 @@ ancients, spoke of it as bitumen and liquidum candidum.
 And other terms in Roman and Greek
 literature obviously signify the same substance.</p>
 
-<p>Additional designations are: Ropa, ropianka, (Galician
-Polish) pacura (Roumanian), Huile de naphte
-and pétrole brut (French); erdoel, rohoel, rohnaphtha
-(German); yenan (Burmese); sekinoyn (Japanese)
-shi-yu (Chinese); chapapote (Mexican).</p>
+<p>Additional designations are: <span lang="pl">Ropa, ropianka</span>, (Galician
+Polish) <span lang="ro">pacura</span> (Roumanian), <span lang="fr">Huile de naphte
+and pétrole brut</span> (French); <span lang="de">erdoel, rohoel, rohnaphtha</span>
+(German); <span lang="my">yenan</span> (Burmese); <span lang="ja">sekinoyn</span> (Japanese)
+<span lang="zh">shi-yu</span> (Chinese); <span lang="es">chapapote</span> (Mexican).</p>
 
 <p>There are also a large number of names for such
 petroleum products as paraffine, or mineral wax, of
@@ -5527,6 +5527,30 @@ organizing genius.</p>
 <p class="noindent center p2">THE END</p>
 
 <p class="noindent center p4">THE COUNTRY LIFE PRESS, GARDEN CITY, NEW YORK</p>
+
+<div class="transnote">
+<h2>Transcriber’s Note</h2>
+
+<p>
+Some inconsistencies in spelling, hyphenation, and punctuation have been
+retained.
+</p>
+
+<ul>
+<li><a href="#Page_xv">p. xv</a>: changed “Rumania” to “Roumania” (Moreni Field, Roumania)</li>
+
+<li><a href="#Page_50">p. 50</a>: changed “Egpyt” to “Egypt” (Egypt has also a future)</li>
+
+<li><a href="#Page_69">p. 69</a>: changed “fish-tale” to “fish-tail” (the delicate fish-tail bit)</li>
+
+<li><a href="#Page_74">p. 74</a>: changed “rythmical” to “rhythmical” (the rhythmical “chug-chug”)</li>
+
+<li><a href="#Page_83">p. 83</a>: changed “Samual” to “Samuel” (Samuel Van Syckel of Titusville)</li>
+
+<li>On pp. <a href="#Page_35">35</a>, <a href="#Page_37">37</a>, and <a href="#Page_57">57</a> appears “Edwin Laurencine Drake.” Modern sources
+differ in spelling (Laurentine). This name was left as originally printed.</li>
+</ul>
+</div>
 
 </body>
 </html>
