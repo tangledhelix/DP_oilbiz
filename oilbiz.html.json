@@ -1,94 +1,94 @@
 {
-  "md5checksum": "5d38d0c3e7f5376901e6c5d2456426da",
-  "insertpos": "130.0",
+  "md5checksum": "d0c8dbc171df8ff0563da604e2697af3",
+  "insertpos": "148.12",
   "insertpospeer": "608.32",
   "pagedetails": {
     "f001": {
-      "index": "188.0",
+      "index": "190.0",
       "style": "Roman",
       "number": "1",
       "label": "Pg i"
     },
     "f002": {
-      "index": "195.0",
+      "index": "197.0",
       "style": "\"",
       "number": "No Count",
       "label": ""
     },
     "f003": {
-      "index": "195.0",
+      "index": "197.0",
       "style": "\"",
       "number": "No Count",
       "label": ""
     },
     "f004": {
-      "index": "195.0",
+      "index": "197.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg ii"
     },
     "f005": {
-      "index": "205.0",
+      "index": "207.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg iii"
     },
     "f006": {
-      "index": "230.0",
+      "index": "232.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg iv"
     },
     "f007": {
-      "index": "238.0",
+      "index": "240.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg v"
     },
     "f008": {
-      "index": "273.0",
+      "index": "275.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg vi"
     },
     "f009": {
-      "index": "299.0",
+      "index": "301.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg vii"
     },
     "f010": {
-      "index": "325.0",
+      "index": "327.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg viii"
     },
     "f011": {
-      "index": "353.0",
+      "index": "355.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg ix"
     },
     "f012": {
-      "index": "379.0",
+      "index": "381.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg x"
     },
     "f013": {
-      "index": "405.0",
+      "index": "407.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg xi"
     },
     "f014": {
-      "index": "421.52",
+      "index": "423.52",
       "style": "\"",
       "number": "+1",
       "label": "Pg xii"
     },
     "f015": {
-      "index": "421.52",
+      "index": "423.52",
       "style": "\"",
       "number": "+1",
       "label": "Pg xiii"
@@ -1283,7 +1283,7 @@
     "Basic Latin": true
   },
   "bookmarks": {
-    "Bookmark1": "148.35",
+    "Bookmark1": "150.35",
     "Bookmark2": "1.0",
     "Bookmark3": "1.0"
   },

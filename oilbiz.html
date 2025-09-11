@@ -50,6 +50,8 @@ table {
 table.autotable    { border-collapse: collapse; }
 table.autotable td,
 table.autotable th { padding: 0.25em; }
+table.autotable2 td,
+table.autotable2 th { padding: 0.05em 0.25em; }
 
 .tdl      {text-align: left;}
 .tdr      {text-align: right;}
@@ -128,8 +130,8 @@ blockquote {
 }
 
 /* title page sizing */
-.title-xl { font-size: 2em; }
-.title-l { font-size: 1.4em; }
+.title-xl { font-size: 1.8em; }
+.title-l { font-size: 1.2em; }
 .title-xs { font-size: 0.9em; }
 
 /* title page layout & decoration */
@@ -143,7 +145,7 @@ blockquote {
 .title-inner {
   page-break-before: avoid;
   border: 1px solid black;
-  margin: 1em;
+  margin: .7em;
 }
 .title-hspace { margin-left: 4em; }
 
@@ -222,7 +224,7 @@ OIL INDUSTRY</p>
 FROM<br>
 PHOTOGRAPHS</p>
 
-<p class="center noindent p4">GARDEN CITY<span class="title-hspace">NEW YORK</span><br>
+<p class="center noindent p2">GARDEN CITY<span class="title-hspace">NEW YORK</span><br>
 <span class="center title-l">DOUBLEDAY, PAGE &amp; COMPANY</span><br>
 1920</p>
 </div>
@@ -440,9 +442,7 @@ CONTENTS
 <td class="tdr"><a href="#Page_v">v</a></td>
 </tr>
 <tr>
-<td class="tdl"><span class="smcap">chapter</span></td>
-<td></td>
-<td></td>
+<td class="tdl" colspan="3"><span class="smcap">chapter</span></td>
 </tr>
 <tr>
 <td class="tdr">I.</td>
@@ -5000,7 +5000,7 @@ oil industry must look for reserves abroad.</p>
 in this matter than all the other nations combined.
 The production was distributed as follows:</p>
 
-<table class="autotable">
+<table class="autotable2">
 <tr>
 <td class="tdl">United States</td>
 <td class="tdr">66.2</td>
@@ -5369,7 +5369,7 @@ organizing genius.</p>
 <p class="noindent center p4">THE COUNTRY LIFE PRESS, GARDEN CITY, NEW YORK</p>
 
 <div class="transnote">
-<h2>Transcriber’s Note</h2>
+<h2 class="nobreak">Transcriber’s Note</h2>
 
 <p>
 Some inconsistencies in spelling, hyphenation, and punctuation have been

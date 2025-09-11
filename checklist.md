@@ -441,11 +441,11 @@ Perform these validation steps before submitting your book. Validation is also h
 * Also a utility `kepubify` (link below) that converts; it's unclear what this conversion does that's any better than just renaming the file. Changing the filename is enough to invoke a different / better rendering engine on Kobo devices.
 
 ### Build and upload Ebooks
-* [ ] HTML → Ebookmaker (online)
-* [ ] Optional: Convert epub3 with [kepubify](https://pgaskin.net/kepubify/try/)
-* [ ] Optional: Upload epub3 with [Send to Kindle](https://www.amazon.com/gp/sendtokindle)
-* [ ] Add epub3 to Apple Books
-* [ ] Optional: Add epub, epub3, renamed-kepub, converted-kepub to Dropbox for Kobo
+* [x] HTML → Ebookmaker (online)
+* [x] Optional: Convert epub3 with [kepubify](https://pgaskin.net/kepubify/try/)
+* [x] Optional: Upload epub3 with [Send to Kindle](https://www.amazon.com/gp/sendtokindle)
+* [x] Add epub3 to Apple Books
+* [x] Optional: Add epub, epub3, renamed-kepub, converted-kepub to Dropbox for Kobo
 
 ### Ebook review
 <details>
@@ -453,24 +453,24 @@ Perform these validation steps before submitting your book. Validation is also h
 Don't necessarily have to do *all* of these, but these are what I have.
 </summary>
 
-* [ ] Review Ebook ToC in at least one e-reader, for structure & content
+* [x] Review Ebook ToC in at least one e-reader, for structure & content
   * Can try using `title=` attr if a header title has footnote marker etc.
-* [ ] Mac
-  * [ ] Adobe Digital Editions (epub3)
-  * [ ] Apple Books
-  * [ ] Kindle Previewer (epub3)
-  * [ ] Calibre (epub3)
-* [ ] Phone
-  * [ ] Apple Books (iPhone)
-  * [ ] Kindle (iPhone)
-* [ ] Tablet
-  * [ ] Kindle (Android)
-  * [ ] Google Play Books - Android (Dropbox)
-  * [ ] Apple Books - iPad mini
-* [ ] E-ink
-  * [ ] Kobo Libra Colour (renamed-kepub)
-  * [ ] Kobo Libra Colour (converted-kepub)
-  * [ ] Kindle Paperwhite
+* [x] Mac
+  * [x] Adobe Digital Editions (epub3)
+  * [x] Apple Books
+  * [x] Kindle Previewer (epub3)
+  * [x] Calibre (epub3)
+* [x] Phone
+  * [x] Apple Books (iPhone)
+  * [x] Kindle (iPhone)
+* [x] Tablet
+  * [x] Kindle (Android)
+  * [x] Google Play Books - Android (Dropbox)
+  * [x] Apple Books - iPad mini
+* [x] E-ink
+  * [x] Kobo Libra Colour (renamed-kepub)
+  * [x] Kobo Libra Colour (converted-kepub)
+  * [x] Kindle Paperwhite
 
 </details>
 
@@ -481,7 +481,9 @@ Don't necessarily have to do *all* of these, but these are what I have.
 Submit for a decent length of time, up to the maximum. Check what's in `ebooks/` folder, it'll all be uploaded.
 
 * [ ] Make sure git is clean, committed, pushed
+* [ ] If not already done, run online Ebookmaker and get books into `ebooks/`
 * [ ] `make sr`
+* [ ] Write or find a summary/blurb about the book for the SR submission. This can help to interest a potential reader.
 * [ ] Go to [project page](https://www.pgdp.net/c/project.php?id=projectID6439914e322af), select SR time period, upload `oilbiz-sr.zip`
 * [ ] Subscribe to “user uploads a SR report” item
 * [ ] Update my Trello project board with due date, set card to SR status
