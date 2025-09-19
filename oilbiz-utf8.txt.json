@@ -1,6 +1,6 @@
 {
-  "md5checksum": "4a442447cc574229e95da12247cce0e2",
-  "insertpos": "3648.58",
+  "md5checksum": "bb6f6c7de481f58b7606ecd6515eb0c6",
+  "insertpos": "844.53",
   "insertpospeer": "3796.0",
   "pagedetails": {
     "f001": {
@@ -1279,6 +1279,13 @@
   "imagedir": "/Users/dan/dp/pp/oilbiz/pngs",
   "projectid": "projectID6439914e322af",
   "languages": "en",
-  "bookmarks": {},
+  "charsuites": {
+    "Basic Latin": true
+  },
+  "bookmarks": {
+    "Bookmark1": "1.0",
+    "Bookmark2": "1.0",
+    "Bookmark3": "1.0"
+  },
   "imagerotate": {}
 }

@@ -56,6 +56,9 @@ table.autotable2 th { padding: 0.05em 0.25em; }
 .tdl      {text-align: left;}
 .tdr      {text-align: right;}
 
+.vatop { vertical-align: top; }
+.vabot { vertical-align: bottom; }
+
 .pagenum { /* uncomment the next line for invisible page numbers */
     /*  visibility: hidden;  */
     position: absolute;
@@ -130,8 +133,8 @@ blockquote {
 }
 
 /* title page sizing */
-.title-xl { font-size: 2em; }
-.title-l { font-size: 1.4em; }
+.title-xl { font-size: 1.8em; }
+.title-l { font-size: 1.2em; }
 .title-xs { font-size: 0.9em; }
 
 /* title page layout & decoration */
@@ -145,7 +148,7 @@ blockquote {
 .title-inner {
   page-break-before: avoid;
   border: 1px solid black;
-  margin: 1em;
+  margin: .7em;
 }
 .title-hspace { margin-left: 4em; }
 
@@ -184,6 +187,8 @@ p.drop-cap:first-letter
 .x-ebookmaker .illowp48 {width: 100%;}
 .illowp49 {width: 49%;}
 .x-ebookmaker .illowp49 {width: 100%;}
+
+abbr.spell { speak: spell-out; }
     </style>
 </head>
 <body>
@@ -200,8 +205,8 @@ OIL INDUSTRY
 <figure class="figcenter illowp48" id="i_f004" style="max-width: 111.8125em;">
   <img class="w100" src="images/i_f004.jpg" alt="">
   <figcaption>
-      <p>The first oil well drilled near Titusville, Pa., on August 27,
-    1859, by Col. Edwin L. Drake, the pioneer man of the world</p>
+      <p>The first oil well drilled near Titusville, <abbr title="Pennsylvania">Pa.</abbr>, on August 27,
+    1859, by <abbr title="Colonel">Col.</abbr> Edwin L. Drake, the pioneer man of the world</p>
   </figcaption>
 </figure>
 
@@ -235,7 +240,7 @@ PHOTOGRAPHS</p>
 <p class="center title-xs noindent p4 pagebreak">COPYRIGHT, 1920, BY<br>
 DOUBLEDAY, PAGE &amp; COMPANY</p>
 
-<p class="center noindent title-xs">ALL RIGHTS RESERVED, INCLUDING THAT OF TRANSLATION<br>
+<p class="center noindent title-xs">ALL RIGHTS RESERVED, INCLUDING THAT OF TRANSLATION
 INTO FOREIGN LANGUAGES, INCLUDING THE SCANDINAVIAN</p>
 
 <hr class="chap x-ebookmaker-drop">
@@ -279,7 +284,7 @@ good fortune not only for America but for
 the world at large, that this movement, though
 gradual at the outset, commenced almost within a
 decade of the birth of the modern petroleum industry
-at Titusville, Pa., in 1859. The outcome has
+at Titusville, <abbr title="Pennsylvania">Pa.</abbr>, in 1859. The outcome has
 tended to influence economic thought the world over,
 especially since war on an unprecedented scale put all
 established systems, traditions, and institutions to
@@ -445,74 +450,74 @@ CONTENTS
 <td class="tdl" colspan="3"><span class="smcap">chapter</span></td>
 </tr>
 <tr>
-<td class="tdr">I.</td>
+<td class="tdr vatop">I.</td>
 <td class="tdl"><span class="smcap">Petroleum in History and Legend</span></td>
-<td class="tdr"><a href="#Page_3">3</a></td>
+<td class="tdr vabot"><a href="#Page_3">3</a></td>
 </tr>
 <tr>
-<td class="tdr">II.</td>
+<td class="tdr vatop">II.</td>
 <td class="tdl"><span class="smcap">What is Petroleum?</span></td>
-<td class="tdr"><a href="#Page_11">11</a></td>
+<td class="tdr vabot"><a href="#Page_11">11</a></td>
 </tr>
 <tr>
-<td class="tdr">III.</td>
+<td class="tdr vatop">III.</td>
 <td class="tdl"><span class="smcap">Dawn of America’s Petroleum Industry</span></td>
-<td class="tdr"><a href="#Page_30">30</a></td>
+<td class="tdr vabot"><a href="#Page_30">30</a></td>
 </tr>
 <tr>
-<td class="tdr">IV.</td>
+<td class="tdr vatop">IV.</td>
 <td class="tdl"><span class="smcap">Founder of the Petroleum Industry</span></td>
-<td class="tdr"><a href="#Page_37">37</a></td>
+<td class="tdr vabot"><a href="#Page_37">37</a></td>
 </tr>
 <tr>
-<td class="tdr">V.</td>
+<td class="tdr vatop">V.</td>
 <td class="tdl"><span class="smcap">Petroleum as a World Industry</span></td>
-<td class="tdr"><a href="#Page_44">44</a></td>
+<td class="tdr vabot"><a href="#Page_44">44</a></td>
 </tr>
 <tr>
-<td class="tdr">VI.</td>
+<td class="tdr vatop">VI.</td>
 <td class="tdl"><span class="smcap">Locating the Oil Well</span></td>
-<td class="tdr"><a href="#Page_57">57</a></td>
+<td class="tdr vabot"><a href="#Page_57">57</a></td>
 </tr>
 <tr>
-<td class="tdr">VII.</td>
+<td class="tdr vatop">VII.</td>
 <td class="tdl"><span class="smcap">Drilling the Oil Well</span></td>
-<td class="tdr"><a href="#Page_65">65</a></td>
+<td class="tdr vabot"><a href="#Page_65">65</a></td>
 </tr>
 <tr>
-<td class="tdr">VIII.</td>
+<td class="tdr vatop">VIII.</td>
 <td class="tdl"><span class="smcap">Collecting and Transporting Crude: The Pipe Line</span></td>
-<td class="tdr"><a href="#Page_76">76</a></td>
+<td class="tdr vabot"><a href="#Page_76">76</a></td>
 </tr>
 <tr>
-<td class="tdr">IX.</td>
+<td class="tdr vatop">IX.</td>
 <td class="tdl"><span class="smcap">Refining and Manufacturing Petroleum Products</span></td>
-<td class="tdr"><a href="#Page_89">89</a></td>
+<td class="tdr vabot"><a href="#Page_89">89</a></td>
 </tr>
 <tr>
-<td class="tdr">X.</td>
+<td class="tdr vatop">X.</td>
 <td class="tdl"><span class="smcap">Petroleum and Other Industries</span></td>
-<td class="tdr"><a href="#Page_106">106</a></td>
+<td class="tdr vabot"><a href="#Page_106">106</a></td>
 </tr>
 <tr>
-<td class="tdr">XI.</td>
+<td class="tdr vatop">XI.</td>
 <td class="tdl"><span class="smcap">Petroleum on the Seven Seas</span></td>
-<td class="tdr"><a href="#Page_116">116</a></td>
+<td class="tdr vabot"><a href="#Page_116">116</a></td>
 </tr>
 <tr>
-<td class="tdr">XII.</td>
+<td class="tdr vatop">XII.</td>
 <td class="tdl"><span class="smcap">Petroleum in the Great War</span></td>
-<td class="tdr"><a href="#Page_129">129</a></td>
+<td class="tdr vabot"><a href="#Page_129">129</a></td>
 </tr>
 <tr>
-<td class="tdr">XIII.</td>
+<td class="tdr vatop">XIII.</td>
 <td class="tdl"><span class="smcap">America’s Investment in Petroleum</span></td>
-<td class="tdr"><a href="#Page_148">148</a></td>
+<td class="tdr vabot"><a href="#Page_148">148</a></td>
 </tr>
 <tr>
-<td class="tdr">XIV.</td>
+<td class="tdr vatop">XIV.</td>
 <td class="tdl"><span class="smcap">Petroleum in the Future</span></td>
-<td class="tdr"><a href="#Page_160">160</a></td>
+<td class="tdr vabot"><a href="#Page_160">160</a></td>
 </tr>
 </table>
 
@@ -529,83 +534,83 @@ LIST OF ILLUSTRATIONS
 <table class="autotable">
 <tr>
 <td class="tdl">
-The first oil well, drilled near Titusville, Pa.,
-on August 27, 1859, by Col. Edwin L.
+The first oil well, drilled near Titusville, <abbr title="Pennsylvania">Pa.</abbr>,
+on August 27, 1859, by <abbr title="Colonel">Col.</abbr> Edwin L.
 Drake</td>
-<td class="tdr"><a href="#Page_ii"><i>Frontispiece</i></a></td>
+<td class="tdr vabot"><a href="#Page_ii"><i>Frontispiece</i></a></td>
 </tr>
 <tr>
 <td colspan="2" class="tdr"><span class="smcap">facing page</span></td>
 </tr>
 <tr>
 <td class="tdl">A temporary oil reservoir in Oklahoma</td>
-<td class="tdr"><a href="#i_p026a">26</a></td>
+<td class="tdr vabot"><a href="#i_p026a">26</a></td>
 </tr>
 <tr>
 <td class="tdl">Early activity; the famous Red Hot Oil Field
-near Shamburg, Pa.</td>
-<td class="tdr"><a href="#i_p042a">42</a></td>
+near Shamburg, <abbr title="Pennsylvania">Pa.</abbr></td>
+<td class="tdr vabot"><a href="#i_p042a">42</a></td>
 </tr>
 <tr>
 <td class="tdl">Where Pithole stood</td>
-<td class="tdr"><a href="#i_p042b">43</a></td>
+<td class="tdr vabot"><a href="#i_p042b">43</a></td>
 </tr>
 <tr>
 <td class="tdl">The Drader Well in the Moreni Field, Roumania</td>
-<td class="tdr"><a href="#i_p066a">66</a></td>
+<td class="tdr vabot"><a href="#i_p066a">66</a></td>
 </tr>
 <tr>
 <td class="tdl">Burkburnett in Northern Texas</td>
-<td class="tdr"><a href="#i_p066b">67</a></td>
+<td class="tdr vabot"><a href="#i_p066b">67</a></td>
 </tr>
 <tr>
 <td class="tdl">Big yield well in Mexico flowing into temporary
 storage pond</td>
-<td class="tdr"><a href="#i_p082a">82</a></td>
+<td class="tdr vabot"><a href="#i_p082a">82</a></td>
 </tr>
 <tr>
 <td class="tdl">Laying a pipe line through a Louisiana forest</td>
-<td class="tdr"><a href="#i_p082b">83</a></td>
+<td class="tdr vabot"><a href="#i_p082b">83</a></td>
 </tr>
 <tr>
 <td class="tdl">Lines for loading oil on vessels standing from
 one to two miles at sea</td>
-<td class="tdr"><a href="#i_p098a">98</a></td>
+<td class="tdr vabot"><a href="#i_p098a">98</a></td>
 </tr>
 <tr>
 <td class="tdl">Battery of crude stills at the Bayway Refinery,
-Linden, N. J.</td>
-<td class="tdr"><a href="#i_p098b">99</a></td>
+Linden, <abbr title="New Jersey">N. J.</abbr></td>
+<td class="tdr vabot"><a href="#i_p098b">99</a></td>
 </tr>
 <tr>
 <td class="tdl">“Look boxes” in the “Still House” where the
 grades of oil are separated according to
 gravity</td>
-<td class="tdr"><a href="#i_p114a">114</a></td>
+<td class="tdr vabot"><a href="#i_p114a">114</a></td>
 </tr>
 <tr>
 <td class="tdl"><span class="pagenum" id="Page_xvi">[Pg xvi]</span>
 A modern tanker carrying 4,000,000 gallons of oil</td>
-<td class="tdr"><a href="#i_p114b">115</a></td>
+<td class="tdr vabot"><a href="#i_p114b">115</a></td>
 </tr>
 <tr>
 <td class="tdl">A tanker being loaded with gasoline and oil
 at a refinery dock at Port Arthur, Texas</td>
-<td class="tdr"><a href="#i_p146a">146</a></td>
+<td class="tdr vabot"><a href="#i_p146a">146</a></td>
 </tr>
 <tr>
 <td class="tdl">Kansas wells flowing oil into a temporary
 sump, or earthen reservoir</td>
-<td class="tdr"><a href="#i_p146b">147</a></td>
+<td class="tdr vabot"><a href="#i_p146b">147</a></td>
 </tr>
 <tr>
 <td class="tdl">Steam stills at a modern refinery</td>
-<td class="tdr"><a href="#i_p162a">162</a></td>
+<td class="tdr vabot"><a href="#i_p162a">162</a></td>
 </tr>
 <tr>
 <td class="tdl">Storage tank at Cushing, Oklahoma, struck
 by lightning</td>
-<td class="tdr"><a href="#i_p162b">163</a></td>
+<td class="tdr vabot"><a href="#i_p162b">163</a></td>
 </table>
 
 <div class="pagebreak"></div>
@@ -1219,23 +1224,23 @@ sulphur compounds.</p>
 
 <p>The word “naphtha” comes from Russia, where
 it is applied to all crude petroleum, and was supposedly
-derived from the Persian, nafata, to exude.
+derived from the Persian, <span lang="fa">nafata</span>, to exude.
 Early Roman writers like Strabo and Pliny, who
 were acquainted with the burning and lighting
 properties of the surface oil deposits known to the
-ancients, spoke of it as bitumen and liquidum candidum.
+ancients, spoke of it as bitumen and <span lang="la">liquidum candidum</span>.
 And other terms in Roman and Greek
 literature obviously signify the same substance.</p>
 
 <p>Additional designations are: <span lang="pl">Ropa, ropianka</span>, (Galician
-Polish) <span lang="ro">pacura</span> (Roumanian), <span lang="fr">Huile de naphte
-and pétrole brut</span> (French); <span lang="de">erdoel, rohoel, rohnaphtha</span>
+Polish) <span lang="ro">pacura</span> (Roumanian), <span lang="fr">Huile de naphte</span>
+and <span lang="fr">pétrole brut</span> (French); <span lang="de">erdoel, rohoel, rohnaphtha</span>
 (German); <span lang="my">yenan</span> (Burmese); <span lang="ja">sekinoyn</span> (Japanese)
 <span lang="zh">shi-yu</span> (Chinese); <span lang="es">chapapote</span> (Mexican).</p>
 
 <p>There are also a large number of names for such
 petroleum products as paraffine, or mineral wax, of
-which the Spanish brea is an example; and for asphalt,
+which the Spanish <span lang="es">brea</span> is an example; and for asphalt,
 which is really petroleum in a dense form.</p>
 
 <p>Surface indications of petroleum and natural gas
@@ -1393,7 +1398,7 @@ recognized medicinal uses, the traditions of which
 had been acquired from the Indians. Thus, in the
 thirties, “Seneca Oil” produced at Lake Seneca,
 New York; and “American Medicinal Oil,” a
-Kentucky preparation were familiar household remedies,
+Kentucky preparation, were familiar household remedies,
 especially as embrocations for burns, sores and
 rheumatic affections.</p>
 
@@ -1427,19 +1432,19 @@ to achieve their revolutionary discoveries.</p>
 <p>The first American salt well of which there is any
 official record was begun in 1806 and completed in
 January, 1808, on the Great Kanawha River in what
-is now West Virginia. Charlestown, Va., was then
+is now West Virginia. Charlestown, <abbr title="Virginia">Va.</abbr>, was then
 the nearest town, and in the vicinity of this brine well
 the first burning gas spring had been discovered in
 1773. At Tarentum, on the Allegheny River,
 Pennsylvania, salt wells were started in 1810 which
 also yielded petroleum in considerable quantities,
-and such pioneers as Col. Ferris and Samuel M. Kier
+and such pioneers as <abbr title="Colonel">Col.</abbr> Ferris and Samuel M. Kier
 <span class="pagenum" id="Page_33">[Pg 33]</span>endeavoured later to turn this by-product to commercial
 account. The first flowing oil well was
 drilled unintentionally in 1818 at the mouth of
 Troublesome Creek, on the Big South Fork of the
 Cumberland River, twenty-eight miles south-east of
-Monticello, Va., by one Martin Beatty, who was
+Monticello, <abbr title="Virginia">Va.</abbr>, by one Martin Beatty, who was
 seeking brine. “The Devil’s Tar” as he called it,
 was allowed to flow into the Cumberland River and
 covered its surface for a distance of thirty-five
@@ -1478,7 +1483,7 @@ H. Bissell, who had become interested in the possibilities
 of petroleum through his acquaintanceship
 with Prof. Crosby of Dartmouth College. The
 latter had received from a physician at Titusville,
-Pa., a historical city in connection with the coming
+<abbr title="Pennsylvania">Pa.</abbr>, a historical city in connection with the coming
 industry, a bottle of petroleum, sent as a curiosity.
 Bissell was so interested that he, in company with
 friends, purchased for $5,000 a tract of one hundred
@@ -1495,13 +1500,13 @@ his hands. The story runs that one day in the
 summer of 1857 while in New York he saw in the
 window of a Broadway drug store one of Kier’s
 imitation greenbacks, showing the picture of the
-derricks at Tarentum, Pa. The idea suddenly came
+derricks at Tarentum, <abbr title="Pennsylvania">Pa.</abbr> The idea suddenly came
 to him of developing the Titusville property just as
 salt properties were developed by boring and pumping.
 Though short of capital, he set about obtaining
 backing for the attempt, and the final outcome
 was that a small syndicate was formed in New Haven,
-Conn., to work the Titusville oil lands. This
+<abbr title="Connecticut">Conn.</abbr>, to work the Titusville oil lands. This
 syndicate engaged Edwin Laurencine Drake, the
 most historic figure in connection with the beginning
 of the American industry, to carry out the work.
@@ -1540,7 +1545,7 @@ CHAPTER IV<br>
 
 <p class="drop-cap"><span class="smcap">On October</span> 4, 1901, a magnificent monument
 was unveiled at Woodlawn Cemetery,
-Titusville, Pa., to the memory of
+Titusville, <abbr title="Pennsylvania">Pa.</abbr>, to the memory of
 Edwin Laurencine Drake at the expense of the late
 Henry H. Rogers, of the Standard Oil Company,
 himself a pioneer of the Pennsylvania oil fields in the
@@ -1552,7 +1557,7 @@ people of the United States but to mankind at large.
 It runs as follows:-</p>
 
 <blockquote>
-<p>Col. E. L. Drake, born at Greenville, N. Y., March
+<p><abbr title="Colonel">Col.</abbr> E. L. Drake, born at Greenville, <abbr title="New York">N. Y.</abbr>, March
 29, 1819; died at Bethlehem, Pennsylvania, November
 8, 1884, Founder of the Petroleum Industry, The friend
 of man.</p>
@@ -1711,7 +1716,7 @@ growth of the American industry.</p>
 <figure class="figcenter illowp100" id="i_p042a" style="max-width: 181.75em;">
   <img class="w100" src="images/i_p042a.jpg" alt="">
   <figcaption>
-      <p>Early activity; the famous Red Hot Oil Field near Shamburg, Pa., in 1870</p>
+      <p>Early activity; the famous Red Hot Oil Field near Shamburg, <abbr title="Pennsylvania">Pa.</abbr>, in 1870</p>
   </figcaption>
 </figure>
 
@@ -2751,7 +2756,7 @@ he was interested. The first test of conveying
 crude oil in pipes was through a two-inch iron pipe
 in process of being laid February 19, 1863 from the
 Tarr Farm to the Humboldt Refinery at Plumer,
-Pa., about six miles northeast of Oil City, Pa.
+<abbr title="Pennsylvania">Pa.</abbr>, about six miles northeast of Oil City, <abbr title="Pennsylvania">Pa.</abbr>
 The distance was two and a half miles. The
 teamsters, forseeing that their earnings would be diminished
 and perhaps disappear, if the system were
@@ -2788,7 +2793,7 @@ protection and his line was completed. It was of
 of petroleum, asserts that the first commercially
 successful pipe line was constructed in the summer
 of 1865 by Samuel Van Syckel of Titusville, from the
-mushroom city of Pithole, Pa., to the nearest railway
+mushroom city of Pithole, <abbr title="Pennsylvania">Pa.</abbr>, to the nearest railway
 station, Miller Farm, a distance of four miles.
 Van Syckel had the backing of New York capital,
 and the basis of his success, after similar projects
@@ -2808,10 +2813,10 @@ has steadily multiplied, and by means of them the
 crude petroleum collected at a “tank farm” on the
 prairies is conveyed to refineries many hundreds of
 miles away. The first pipe-line of considerable
-<span class="pagenum" id="Page_84">[Pg 84]</span>length was laid in 1880 from Butler County, Penn.
+<span class="pagenum" id="Page_84">[Pg 84]</span>length was laid in 1880 from Butler County, <abbr title="Pennsylvania">Penn.</abbr>
 to Cleveland, Ohio, a distance of over 100 miles.
 Almost immediately after trunk lines from Bradford,
-Pa. to the Atlantic seaboard were commenced.
+<abbr title="Pennsylvania">Pa.</abbr> to the Atlantic seaboard were commenced.
 By 1893 there were 3,000 miles of pipe lines in the
 Eastern states with storage facilities for 35,000,000
 barrels of oil.</p>
@@ -3188,7 +3193,7 @@ make it highly explosive and dangerous when used
 in lamps. This re-distillation is followed by a
 chemical purification, producing the kerosene of
 commerce, which is not only so safe that it may be
-heated to a temperature well above 100° F. without
+heated to a temperature well above 100° <abbr title="Fahrenheit">F.</abbr> without
 danger of giving off any explosive vapour, but is
 also water-white in colour, crystal clear, and of such
 purity that it may be burned in a lamp in a closed
@@ -3211,7 +3216,7 @@ further treatment.</p>
 <figure class="figcenter illowp100" id="i_p098b" style="max-width: 183.6875em;">
   <img class="w100" src="images/i_p098b.jpg" alt="">
   <figcaption>
-      <p>Battery of crude stills at the Bayway Refinery, Linden, N. J.</p>
+      <p>Battery of crude stills at the Bayway Refinery, Linden, <abbr title="New Jersey">N. J.</abbr></p>
   </figcaption>
 </figure>
 
@@ -3743,7 +3748,7 @@ The earlier shipments were in the nature of samples
 despatched in ordinary cargo vessels, usually from the
 port of Philadelphia.</p>
 
-<p>In November of 1861 Messrs. Peter Wright and
+<p>In November of 1861 <abbr title="Messers">Messrs.</abbr> Peter Wright and
 Sons, a well known shipping firm of that city, chartered
 a small sailing vessel, the <i>Elizabeth Watts</i>, to
 carry oil exclusively and to deliver her cargo in
@@ -3770,14 +3775,14 @@ idea. He chartered a schooner at Chicago, fitted her
 to carry oil in bulk and in her hold and loaded her at
 Sarnia, Canada, then as now, an oil shipping point
 of inland America. The experiment was ill-fated,
-for the schooner was lost in the Gulf of St. Lawrence
+for the schooner was lost in the Gulf of <abbr title="Saint">St.</abbr> Lawrence
 before entering on the high seas. But the scheme of
 carrying oil in the holds of wooden ships in bulk was
 later successfully adopted by other shipowners and
 continued in practice until 1878.</p>
 
 <p>The genesis of the modern tanker dates from the
-launching of the <i>Atlantic</i> at St. Peter’s on the Tyne,
+launching of the <i>Atlantic</i> at <abbr title="Saint">St.</abbr> Peter’s on the Tyne,
 Yorkshire, in August 1863. In the record of this
 launching it was set forth that the vessel was specifically
 designed to carry petroleum in bulk “without
@@ -3991,7 +3996,7 @@ establishments on the Atlantic seaboard and in the
 Gulf of Mexico, bunkering stations have been established
 by American initiative at all the chief ports
 <span class="pagenum" id="Page_128">[Pg 128]</span>of Canada, whether on the Atlantic or on the Pacific
-Coast, the Great Lakes, or the Gulf of St. Lawrence,
+Coast, the Great Lakes, or the Gulf of <abbr title="Saint">St.</abbr> Lawrence,
 in South America, at Rio de Janeiro, Brazil; Montevideo,
 Uruguay; Campana and Buenos Aires,
 Argentina; at Valparaiso and five other ports on the
@@ -4179,7 +4184,7 @@ movement. Without the internal combustion engine
 operated by gasoline it would have been an immobile
 toy. Again, when liquid fire came into use petroleum
 was the basis; and in another great destructive
-agent—the explosive, known as T. N. T.—toluol,
+agent—the explosive, known as <abbr class="spell">T. N. T.</abbr>—toluol,
 which is found in some of the heavier grades of petroleum,
 was a basic constituent.</p>
 
@@ -4300,7 +4305,7 @@ communicated to the leaders of the American oil
 industry, there was an instant response. The
 National Petroleum War Service Committee was
 formed, with Mr. A. C. Bedford, Chairman of the
-Board of the Standard Oil Company, (N. J.) as its
+Board of the Standard Oil Company, (<abbr title="New Jersey">N. J.</abbr>) as its
 presiding officer. The organization embraced all the
 oil companies of the United States. Those who had
 been life-long keen business rivals joined hands to
