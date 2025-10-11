@@ -109,7 +109,7 @@ On pp. 35, 37, and 57 appears “Edwin Laurencine Drake.” Modern sources
 differ in spelling (Laurentine). This name was left as originally printed.
 
 ### HTML file review ###
-The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 
+The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device.
 
 * [x] Safari
 * [x] Firefox
@@ -121,4 +121,10 @@ The iPhone/iPad simulators can't use `file://` URLs. Start a local web server wi
 ### Ebook review ###
 
 ### Smooth Reading ###
+
+A reader left this note regarding the HTML file:
+
+> The only thing I noticed was that on p025 the words sekinoyn and shi-yu where in a larger, different font to the rest of the text.
+
+This is presuambly due to their being marked as `lang=ja` (Japanese) and `lang=zh` (Chinese) respectively. The browser must be deciding to render them in a different font.
 
